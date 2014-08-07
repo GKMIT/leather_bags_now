@@ -23,6 +23,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/revolution.css" media="screen" /> <!-- Slider Revolution -->
 <link rel="stylesheet" href="assets/css/custom-header.css" type="text/css" /><!-- Responsive -->	
 <link rel="stylesheet" type="text/css" href="assets/css/index.css" /> <!-- index -->
+<link rel="stylesheet" href="assets/css/custom-product.css" type="text/css" /><!-- Responsive -->
 
 
 	
@@ -37,7 +38,7 @@
 <section class="block">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8">
+			<div class="col-md-9">
 				<div class="tp-banner-container">
 					<div class="tp-banner" >
 						<ul>
@@ -72,55 +73,34 @@
 				</div>
 			</div>
 			
-			<div class="col-md-4">
-				<div class="best-deals">
-					<span>LATEST</span>
-					<!-- <ul>
-						<li>
-							<span><img src="assets/images/best-sale/1.jpg" alt="" /></span>
-							<h4>Best Offer Samsung Galaxy <i>N9000 ( Jet Black )</i></h4>
-							<p>$454<strong></strong></p>
-							<a href="#" title="">SHOP NOW</a>
-						</li>
-						
-						<li>
-							<span><img src="assets/images/best-sale/2.jpg" alt="" /></span>
-							<h4>Best Offer Samsung Galaxy <i>N9000 ( Jet Black )</i></h4>
-							<p>$454<strong></strong></p>
-							<a href="#" title="">SHOP NOW</a>
-						</li>
-						
-						<li>
-							<span><img src="assets/images/best-sale/3.jpg" alt="" /></span>
-							<h4>Best Offer Samsung Galaxy <i>N9000 ( Jet Black )</i></h4>
-							<p>$485 <strong>$454</strong></p>
-							<a href="#" title="">SHOP NOW</a>
-						</li>
-						
-					</ul> -->
-					<ul>
-						<li>
-							<span>
-								<img src="assets/images/side-bar/latest-front-page/black_leather_and_jute_messenger_bag_satchel.png" alt="black leather and jute messenger bag satchel" />
-							</span>
-							<h4>Black Leather And Jute Messenger Bag Satchel </h4>
-							<a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">SHOP NOW</a>
-						</li>
-						
-						<li>
-							<span><img src="assets/images/side-bar/latest-front-page/leather_and_jute_messenger_bag_satchel.png" alt="leather and jute messenger bag satchel" /></span>
-							<h4>Leather And Jute Messenger Bag Satchel</h4>
-							<a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">SHOP NOW</a>
-						</li>
-						
-						<li>
-							<span><img src="assets/images/side-bar/latest-front-page/leather_messenger_bag_satchel_retro_look.png" alt="Leather Messenger Bag Satchel Retro Look" /></span>
-							<h4>Leather Messenger Bag Satchel Retro Look</h4>
-							<a href="leather-messenger-bag-satchel-retro-look.php" title="Leather Messenger Bag Satchel Retro Look">SHOP NOW</a>
-						</li>
-						
-					</ul>
-				</div>
+			<div class="col-md-3">
+				<aside>
+					<div class="product-tab">
+					  <ul class="nav nav-tabs" id="myTab">
+						<li class="active"><a data-toggle="tab" href="#recent">Latest</a></li>
+						<!-- <li><a data-toggle="tab" href="#popular">Up Comming</a></li> -->
+					  </ul>
+						<div class="tab-content" id="myTabContent">
+							<div id="recent" class="tab-pane fade in active">
+								<div class="tab-recent" id="tab-recent">
+									<ul>
+										<li><span><img src="assets/images/side-bar/latest/black_leather_and_jute_messenger_bag_satchel.png" alt="" /></span>
+											<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">Black Leather And Jute Messenger Bag Satchel</a></h3>
+										</li>
+										
+										<li><span><img src="assets/images/side-bar/latest/leather_and_jute_messenger_bag_satchel.png" alt="" /></span>
+											<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">Leather And Jute Messenger Bag Satchel</a></h3>
+										</li>
+										
+										<li><span><img src="assets/images/side-bar/latest/leather_messenger_bag_satchel_retro_look.png" alt="" /></span>
+											<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="leather messenger bag satchel retro look">Leather Messenger Bag Satchel Retro Look</a></h3>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</aside>
 			</div>
 			
 		</div>
@@ -247,6 +227,20 @@
 	fullScreen:"off",
 	fullScreenOffsetContainer: ""
 	});
+	});
+
+	$(document).ready(function(){
+		$("#tab-recent").owlCarousel({
+		autoPlay :true,
+		stopOnHover : true,
+		navigation:true,
+		goToFirstSpeed : 2000,
+		slideSpeed:1500,
+		singleItem : true,
+		autoHeight : true,
+		pagination:false,
+		transitionStyle:"goDown"
+		});
 	});
 </script>
 
