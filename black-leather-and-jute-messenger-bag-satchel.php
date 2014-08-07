@@ -134,7 +134,8 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Black Leather And Jute Messenger Bag Satchel</h3>
-						<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+						<p>Distinctive leather smell that fades within 4-6 weeks of ragular use.</p>
+						<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag comes with two components with zip, a zip pocket at back and front. It can accomodate all your laptop, all phone, important files. You can use it as laptop bag, hand briefcase, messenger bag, shoulder bag with its adjustable shoulder strap.</p>						
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
