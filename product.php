@@ -89,7 +89,7 @@
 
 						<div class="cat4 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/ladies_leather_sling_bag_satchel.JPG"><a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/ladies_leather_sling_bag_satchel.jpg"><a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -220,7 +220,7 @@
 
 						<div class="cat1 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_leather_flap_duffle_bag_satchel_vintage_look.JPG"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_leather_flap_duffle_bag_satchel_vintage_look.jpg"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -246,7 +246,7 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_macbook_ipad_leather_sleeve.JPG"><a href="dark-brown-macbook-ipad-leather-sleeve.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_macbook_ipad_leather_sleeve.jpg"><a href="dark-brown-macbook-ipad-leather-sleeve.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -259,7 +259,7 @@
 
 						<div class="cat4 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/ladies_black_leather_handbag.JPG"><a href="ladies-black-leather-handbag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/ladies_black_leather_handbag.jpg"><a href="ladies-black-leather-handbag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -285,7 +285,7 @@
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_office_messenger_bag_satchel.JPG"><a href="leather-office-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_office_messenger_bag_satchel.jpg"><a href="leather-office-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -329,7 +329,7 @@
 
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_laptop_bag.JPG"><a href="premium-leather-laptop-bag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_laptop_bag.jpg"><a href="premium-leather-laptop-bag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -342,7 +342,7 @@
 
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_square_duffle_bag.JPG"><a href="premium-leather-square-duffle-bag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_square_duffle_bag.jpg"><a href="premium-leather-square-duffle-bag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -354,7 +354,7 @@
 
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_travel_gym_bag.JPG"><a href="premium-leather-travel-gym-bag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_travel_gym_bag.jpg"><a href="premium-leather-travel-gym-bag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
