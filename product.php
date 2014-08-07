@@ -102,7 +102,7 @@
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold ">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-Leather-Messenger-Bag-Satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-leather-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -314,7 +314,7 @@
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
 								<div class="sold-thumb">
-									<img alt="" src="assets/images/products/3_in_1_leather_bag- shoulder_bag_backpack_briefcase.jpg">
+									<img alt="" src="assets/images/products/3_in_1_leather_bag-shoulder_bag_backpack_briefcase.jpg">
 									<a href="3-in-1-leather-bag-shoulder-bag-backpack-briefcase.php" title="">
 										VIEW DETAILS
 									</a>
