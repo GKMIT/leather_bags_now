@@ -67,7 +67,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Bag Satchel With Front Pocket <br/><i class="product-code">CZ12</i></h3>
+								<h3>Dark Brown Leather Messenger Bag Satchel With Front Pocket</h3>
+								<span class="product-code">CZ12</span>
 							</div>
 						</div>
 
@@ -81,7 +82,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather And Jute Messenger Bag Satchel <br/><i class="product-code">GBJ01</i></h3>
+								<h3>Black Leather And Jute Messenger Bag Satchel</h3>
+								<span class="product-code">GBJ01</span>
 							</div>
 						</div>
 
@@ -93,7 +95,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Ladies Leather Sling Bag Satchel <br/><i class="product-code">GZ17</i></h3>
+								<h3>Ladies Leather Sling Bag Satchel</h3>
+								<span class="product-code">GZ17</span>
 							</div>
 						</div>
 						 
@@ -105,7 +108,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather Messenger Bag Satchel <br/><i class="product-code">CB02</i></h3>
+								<h3>Black Leather Messenger Bag Satchel </h3>
+								<span class="product-code">CB02</span>
 							</div>
 						</div>
 						
@@ -118,7 +122,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel <br/><i class="product-code">GB19</i></h3>
+								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel</h3>
+								<span class="product-code">GB19</span>
 							</div>
 						</div>
 						 
@@ -130,7 +135,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather And Jute Messenger Bag Satchel <br/><i class="product-code">GBJ05</i></h3>
+								<h3>Leather And Jute Messenger Bag Satchel</h3>
+								<span class="product-code">GBJ05</span>
 							</div>
 						</div>
 
@@ -142,7 +148,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag Satchel With Front Pocket <br/><i class="product-code">CZ15</i></h3>
+								<h3>Leather Messenger Bag Satchel With Front Pocket</h3>
+								<span class="product-code">CZ15</span>
 							</div>
 						</div>
 						
@@ -154,7 +161,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag Satchel Retro Look <br/><i class="product-code">GZ07</i></h3>
+								<h3>Leather Messenger Bag Satchel Retro Look</h3>
+								<span class="product-code">GZ07</span>
 							</div>
 						</div>
 
@@ -166,7 +174,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Bag Satchel Vintage Look <br/><i class="product-code">GZ06</i></h3>
+								<h3>Leather Messenger Bag Satchel Vintage Look</h3>
+								<span class="product-code">GZ06</span>
 							</div>
 						</div>
 
@@ -178,7 +187,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Laptop Bag Satchel <br/><i class="product-code">GZ08</i></h3>
+								<h3>Leather Messenger Laptop Bag Satchel</h3>
+								<span class="product-code">GZ08</span>
 							</div>
 						</div>
 
@@ -190,7 +200,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag Satchel Vintage Look <br/><i class="product-code">GZ10</i></h3>
+								<h3>Leather Office Messenger Bag Satchel Vintage Look </h3>
+								<span class="product-code">GZ10</span>
 							</div>
 						</div>
 
@@ -202,7 +213,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Light Brown Leather Duffle Dag Satchel <br/><i class="product-code">GZ09</i></h3>
+								<h3>Light Brown Leather Duffle Dag Satchel </h3>
+								<span class="product-code">GZ09</span>
 							</div>
 						</div>
 
@@ -214,7 +226,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Dark Brown Leather Flap Duffle Bag Satchel Vintage Look <br/><i class="product-code">GZ11</i></h3>
+								<h3>Dark Brown Leather Flap Duffle Bag Satchel Vintage </h3>
+								<span class="product-code">GZ11</span>
 							</div>
 						</div>
 
@@ -226,7 +239,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Full Flap Macbook Messenger Leather Bag Satchel <br/><i class="product-code">GZ03</i></h3>
+								<h3>Full Flap Macbook Messenger Leather Bag Satchel </h3>
+								<span class="product-code">GZ03</span>
 							</div>
 						</div>
 
@@ -238,7 +252,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Dark Brown Macbook ipad Leather Sleeve <br/><i class="product-code">GZ14</i></h3>
+								<h3>Dark Brown Macbook ipad Leather Sleeve </h3>
+								<span class="product-code">GZ14</span>
 							</div>
 						</div>
 
@@ -250,7 +265,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Ladies Black Leather Handbag<br/><i class="product-code">CB13</i></h3>
+								<h3>Ladies Black Leather Handbag</h3>
+								<span class="product-code">CB13</span>
 							</div>
 						</div>
 
@@ -262,7 +278,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Bike Messenger Bag Satchel<br/><i class="product-code">GZ16</i></h3>
+								<h3>Leather Bike Messenger Bag Satchel</h3>
+								<span class="product-code">GZ16</span>
 							</div>
 						</div>
 
@@ -274,7 +291,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag Satchel<br/><i class="product-code">GZ18</i></h3>
+								<h3>Leather Office Messenger Bag Satchel</h3>
+								<span class="product-code">GZ18</span>
 							</div>
 						</div>
 
@@ -286,7 +304,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Laptop Bag Satchel <br/><i class="product-code">GZ04</i></h3>
+								<h3>Dark Brown Leather Messenger Laptop Bag Satchel </h3>
+								<span class="product-code">GZ04</span>
 							</div>
 						</div>
 
