@@ -102,7 +102,7 @@
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold ">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-Leather-Messenger-Bag-Satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-leather-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
