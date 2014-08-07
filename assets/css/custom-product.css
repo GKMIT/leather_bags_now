@@ -1,0 +1,20 @@
+.choose-size-tab > .nav-tabs > li > a {
+	width: 66px;
+}
+.single-post-head > h3 {
+	font-weight:bold;
+	margin-left:25px;
+}
+.nav-tabs>li.active>a:hover{
+	background: repeat scroll 0 0 #926148;
+	color:#FFF;
+}
+.single-post-head > span {
+	font-size: 14px;
+	padding: 25px 12px;
+}
+
+.product-code{
+	color:#926148;
+	font-weight: bold !important;
+}
