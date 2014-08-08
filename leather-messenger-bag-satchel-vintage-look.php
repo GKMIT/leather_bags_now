@@ -108,28 +108,14 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-m">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">12' x 16'</a></li>
+									
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
 									<div id="size-xl" class="tab-pane fade in active">
-										<p>Dimension	 : 9'x11'</p>
+										<p>Dimension	 : 12' x 16'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-l" class="tab-pane fade">
-									  <p>Dimension	 : 9'x11'</p>
-										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-m" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
-										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-s" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
-									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 								</div>
 							</div>
@@ -149,21 +135,25 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Leather Messenger Bag Satchel Vintage Look</h3>
-						<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
-					  </div>
+						<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag,shopping bag,college bag etc.</p>
+						<ul>
+							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
+							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
+							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
+						</ul>
+					</div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
-							<li><span>Type</span><p>Messenger & Shoulder & Ladies</p></li>
-							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 12', 11' x 13', 12' x 13'</p></li>
-							<li><span>Material</span><p>Leather & Steel</p></li>
-							<li><span>Number of Pockets</span><p>Four Pocket with Chain</p></li>
-							<li><span>Number of Compartments</span><p>Three compartments available</p></li>
-							<li><span>Straps</span><p>2 Strap available</p></li>
-							<li><span>Other Body Features</span><p>Laptop Sleeve with Velcro Closure, Main Compartment, Adjustable Straps at Back</p></li>
+							<li><span>Type</span><p>Messenger</p></li>
+							<li><span>Color</span><p>Brown</p></li>
+							<li><span>Sizes</span><p>12' x 16'</p></li>
+							<li><span>Material</span><p>Leather</p></li>
+							<li><span>Number of Pockets</span><p>2 Side Pocket, One Front Pocket</p></li>
+							<li><span>Number of Compartments</span><p>One Compartment</p></li>
+							<li><span>Number of Straps</span><p>One Strap</p></li>
 						</ul>
 					</div>
 				</div>
