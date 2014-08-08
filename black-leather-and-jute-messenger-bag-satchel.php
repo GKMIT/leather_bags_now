@@ -134,23 +134,25 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Black Leather And Jute Messenger Bag Satchel</h3>
-						<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag comes with two components with zip, a zip pocket at back and front. It can accomodate all your laptop, all phone, important files. You can use it as laptop bag, hand briefcase, messenger bag, shoulder bag with its adjustable shoulder strap.</p>						
-						<p>Distinctive leather smell that fades within 4-6 weeks of ragular use.</p>
-						<p>Handmade bag no camicals and workplace</p>
+						<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+						<ul>
+							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
+							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
+							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
+						</ul>
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
-							<li><span>Type</span><p>Messenger & Shoulder & Ladies</p></li>
+							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 12', 11' x 13', 12' x 13'</p></li>
-							<li><span>Material</span><p>Leather & Steel</p></li>
-							<li><span>Number of Pockets</span><p>Four Pocket with Chain</p></li>
-							<li><span>Number of Compartments</span><p>Three compartments available</p></li>
-							<li><span>Straps</span><p>2 Strap available</p></li>
-							<li><span>Other Body Features</span><p>Laptop Sleeve with Velcro Closure, Main Compartment, Adjustable Straps at Back</p></li>
+							<li><span>Sizes</span><p>11' x 15'</p></li>
+							<li><span>Material</span><p>Leather, Jute, Metal Buckles</p></li>
+							<li><span>Number of Pockets</span><p>Three, Four Front Pocket, 1 Zipper</p></li>
+							<li><span>Number of Compartments</span><p>Three compartments</p></li>
+							<li><span>Number of Straps</span><p>One Strap</p></li>
 						</ul>
 					</div>
 				</div>
