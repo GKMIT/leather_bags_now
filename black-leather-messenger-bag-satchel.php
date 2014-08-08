@@ -136,7 +136,7 @@
 			  <div class="tab-content" id="myTabContent5">
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
-						<h3>Black Leather And Jute Messenger Bag Satchel</h3>
+						<h3>Black Leather Messenger Bag Satchel</h3>
 						<p>Arrive your office in style with this exclusive black colored leather office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 						<ul>
 							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
