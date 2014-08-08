@@ -147,10 +147,7 @@
 							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
 							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
 						</ul>
-
-						
-						
-					  </div>
+					</div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
 					<div class="product-details">

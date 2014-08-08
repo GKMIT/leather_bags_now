@@ -102,9 +102,9 @@
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
 									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-m">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li>
+									<li><a data-toggle="tab" href="#size-l">10' x 12'</a></li>
+									<li><a data-toggle="tab" href="#size-m">11' x 13'</a></li>
+									<li><a data-toggle="tab" href="#size-s">12' x 13'</a></li>
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
@@ -113,15 +113,15 @@
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 									<div id="size-l" class="tab-pane fade">
-									  <p>Dimension	 : 9'x11'</p>
+									  <p>Dimension	 : 10' x 12'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 									<div id="size-m" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
+									 <p>Dimension	 : 11' x 13'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 									<div id="size-s" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
+									 <p>Dimension	 : 12' x 13'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 								</div>
@@ -142,8 +142,12 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Ladies Leather Sling Bag Satchel</h3>
-						<p>Create your own fashion statement by this stylish yet simple leather sling bag. The bag comes with two compartments alongwith a zip pocked on back and a pocket on front.</p>
-						<p>You can adjust the bag according to your comfort with the adjustable shoulder strap.</p>
+						<p>Create your own fashion statement by this stylish yet simple leather sling bag. The bag comes with two compartments along with a zip pocket on back and a pocket in front. You can adjust the bag according to your comfort with the adjustable shoulder strap.</p>
+						<ul>
+							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
+							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
+							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
+						</ul>
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">

@@ -93,17 +93,17 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">11' x 15'</a></li>
+									<!-- <li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
 									<li><a data-toggle="tab" href="#size-m">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li>
+									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li> -->
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
 									<div id="size-xl" class="tab-pane fade in active">
-										<p>Dimension	 : 9'x11'</p>
+										<p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
+									</div><!-- 
 									<div id="size-l" class="tab-pane fade">
 									  <p>Dimension	 : 9'x11'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
@@ -115,7 +115,7 @@
 									<div id="size-s" class="tab-pane fade">
 									 <p>Dimension	 : 9'x11'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							

@@ -101,9 +101,9 @@
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
 									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-m">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li>
+									<li><a data-toggle="tab" href="#size-l">10' x 13'</a></li>
+									<li><a data-toggle="tab" href="#size-m">11' x 15'</a></li>
+									<li><a data-toggle="tab" href="#size-s">12' x 17'</a></li>
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
@@ -141,9 +141,12 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel</h3>
-						<p>A must have classic retro style laptop/college messenger bag. this bag comes with two compartment and have a zipper pocket outside & inside. This bag enough room for your books, laptop, files, all phones etc. have an impression on your colleagues, and friends by this trendy unisex bag. you can also adjust carrying of your bag by adjustable shoulder staps.</p>
-					  	<p>Distinctive leather smell that fades within 4-6 weeks of ragular use.</p>
-						<p>Handmade bag no camicals and workplace.</p>
+						<p>A must have classic retro style laptop/college messenger bag. this bag comes with two compartment and have a zipper pocket outside & inside. This bag enough room for your books, laptop, files, all phones etc. have an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
+					  	<ul>
+							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
+							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
+							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
+						</ul>
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
@@ -153,9 +156,9 @@
 							<li><span>Color</span><p>Brown</p></li>
 							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17'</p></li>
 							<li><span>Material</span><p>leather</p></li>
-							<li><span>Number of Pockets</span><p>2 Zipper pockets</p></li>
-							<li><span>Number of Compartments</span><p>2 inner compartment</p></li>
-							<li><span>Straps</span><p>1 Strap (Adjustable)</p></li>
+							<li><span>Number of Pockets</span><p>Two Zipper Pockets</p></li>
+							<li><span>Number of Compartments</span><p>Two Inner Compartment</p></li>
+							<li><span>Number of Straps</span><p>One Strap (Adjustable)</p></li>
 						</ul>
 					</div>
 				</div>

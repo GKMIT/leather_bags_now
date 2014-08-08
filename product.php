@@ -127,7 +127,7 @@
 									<i class="box4"></i>
 								</div>					
 								<h3>Leather And Jute Messenger Bag Satchel</h3>
-								<span class="product-code">GBJ05</span>
+								<span class="product-code">GZJ05</span>
 							</div>
 						</div>
 
