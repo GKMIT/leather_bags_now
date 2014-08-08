@@ -27,19 +27,10 @@
 	
 </head>
 <body>
-<!-- <body onload="loadPageHandler();"> -->
 <div class="theme-layout">
 	<?php
 		include_once("header.php");
 	?>
-
-<!-- <section class="block" id="inner-head">
-	<div class="fixed-img sec-bg4"></div>
-	<div class="container">	
-		<h1>PRODUCT PAGE</h1>
-	</div>
-</section> -->
-
 <section class="block">
 	<div class="container">
 		<div class="row">
@@ -324,6 +315,7 @@
 									<i class="box4"></i>
 								</div>					
 								<h3>3 in 1 Leather Bag Shoulder Bag Backpack Briefcase</h3>
+								<span class="product-code">UB01</span>
 							</div>
 						</div>
 
@@ -336,6 +328,7 @@
 									<i class="box4"></i>
 								</div>
 								<h3>Premium Leather Laptop Bag</h3>
+								<span class="product-code">UB02</span>
 							</div>
 						</div>
 
@@ -349,6 +342,7 @@
 									<i class="box4"></i>
 								</div>
 								<h3>Premium Leather Square Duffle Bag</h3>
+								<span class="product-code">UB03</span>
 							</div>
 						</div>
 
@@ -361,6 +355,7 @@
 									<i class="box4"></i>
 								</div>
 								<h3>Premium Leather Travel Gym Bag</h3>
+								<span class="product-code">UB04</span>
 							</div>
 						</div>
 
@@ -472,6 +467,11 @@
 			else if($_GET['category']==4){
 				?>
 				$("#cat-4").click();
+				<?php
+			}
+			else if($_GET['category']==5){
+				?>
+				$("#cat-5").click();
 				<?php
 			}
 		}

@@ -100,7 +100,7 @@
 					<div class="col-md-6">
 						<div class="single-post-desc">
 							<div class="single-post-head">
-								<span>ABCD</span>
+								<span>GZ06</span>
 								<h3 style='text-align: center; padding-right: 5px;'>Leather Messenger Bag Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>

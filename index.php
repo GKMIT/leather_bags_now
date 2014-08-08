@@ -72,13 +72,12 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="col-md-3">
 				<aside>
 					<div class="product-tab">
 					  <ul class="nav nav-tabs" id="myTab">
 						<li class="active"><a data-toggle="tab" href="#recent">Latest</a></li>
-						<!-- <li><a data-toggle="tab" href="#popular">Up Comming</a></li> -->
 					  </ul>
 						<div class="tab-content" id="myTabContent">
 							<div id="recent" class="tab-pane fade in active">

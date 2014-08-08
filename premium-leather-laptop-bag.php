@@ -92,7 +92,7 @@
 					<div class="col-md-6">
 						<div class="single-post-desc">
 							<div class="single-post-head">
-								<span>Upcoming</span>
+								<span>UB02</span>
 								<h3 style='text-align: center; margin:15px; padding-right: 5px;'>Premium Leather Laptop Bag </h3>
 								<p>CATEGORIES: <i>Upcoming</i> </p>
 							</div>

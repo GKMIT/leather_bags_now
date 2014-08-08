@@ -49,11 +49,11 @@
 					<div class="col-md-6">
 						<div class="single-product-tab">						
 							<div class="tab-content" id="single-post-content">
-								<div id="single-post1" class="tab-pane fade in active">
-								   <img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_1_large.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" /> 
-								</div>
-								<div id="single-post2" class="tab-pane fade">
+								<div id="single-post2" class="tab-pane fade in active">
 								  <img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_2_large.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" />
+								</div>
+								<div id="single-post1" class="tab-pane fade">
+								   <img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_1_large.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" /> 
 								</div>
 								<div id="single-post3" class="tab-pane fade">
 								  <img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_3_large.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" />
@@ -65,13 +65,13 @@
 							
 							<ul class="nav nav-tabs" id="single-post-tabs">
 								<li class="active">
-									<a data-toggle="tab" href="#single-post1">
-										<img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_1_thumb.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" />
-									</a>
-								</li>
-								<li>
 									<a data-toggle="tab" href="#single-post2">
 										<img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_2_thumb.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" />
+									</a>
+								</li>
+								<li class="">
+									<a data-toggle="tab" href="#single-post1">
+										<img src="assets/images/products/product-detail/dark brown leather messenger bag satchel with front pocket/dark_brown_leather_messenger_bag_satchel_with_front_pocket_1_thumb.jpg" alt="Messenger" title="dark brown leather messenger bag satchel with front pocket" />
 									</a>
 								</li>
 								<li>
@@ -92,7 +92,7 @@
 					<div class="col-md-6">
 						<div class="single-post-desc">
 							<div class="single-post-head">
-								<span>ABCD</span>
+								<span>CG12</span>
 								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Leather Messenger Bag Satchel With Front Pocket </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>

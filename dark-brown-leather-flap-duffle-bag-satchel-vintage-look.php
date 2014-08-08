@@ -84,7 +84,7 @@
 					<div class="col-md-6">
 						<div class="single-post-desc">
 							<div class="single-post-head">
-								<span>ABCD</span>
+								<span>GZ11</span>
 								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Leather Flap Duffle Dag Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Travel</i> </p>
 							</div>

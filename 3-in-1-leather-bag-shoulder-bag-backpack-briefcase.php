@@ -68,12 +68,12 @@
 								</li>
 								<li>
 									<a data-toggle="tab" href="#single-post3">
-										<img src="assets/images/products/product-detail/3 in 1 leather bag shoulder bag backpack briefcase/3_in_1_leather_bag_ shoulder_bag_backpack_briefcase_3_thumb.jpg" alt="Upcomming" title="3 in 1 Leather Bag Shoulder Bag Backpack Briefcase" />
+										<img src="assets/images/products/product-detail/3 in 1 leather bag shoulder bag backpack briefcase/3_in_1_leather_bag_shoulder_bag_backpack_briefcase_3_thumb.jpg" alt="Upcomming" title="3 in 1 Leather Bag Shoulder Bag Backpack Briefcase" />
 									</a>
 								</li>
 								<li>
 									<a data-toggle="tab" href="#single-post4">
-										<img src="assets/images/products/product-detail/3 in 1 leather bag shoulder bag backpack briefcase/3_in_1_leather_bag_ shoulder_bag_backpack_briefcase_4_thumb.jpg" alt="Upcomming" title="3 in 1 Leather Bag Shoulder Bag Backpack Briefcase" />
+										<img src="assets/images/products/product-detail/3 in 1 leather bag shoulder bag backpack briefcase/3_in_1_leather_bag_shoulder_bag_backpack_briefcase_4_thumb.jpg" alt="Upcomming" title="3 in 1 Leather Bag Shoulder Bag Backpack Briefcase" />
 									</a>
 								</li>
 							</ul>
@@ -84,7 +84,7 @@
 					<div class="col-md-6">
 						<div class="single-post-desc">
 							<div class="single-post-head">
-								<span>ABCD</span>
+								<span>UB01</span>
 								<h3 style='text-align: center; padding-right: 5px;'>3 in 1 Leather Bag Shoulder Bag Backpack Briefcase</h3>
 								<p>CATEGORIES: <i>Upcoming</i> </p>
 							</div>

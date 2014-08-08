@@ -16,36 +16,15 @@
 				<div class="footer-category">
 				<h3><i>PORDUCT</i> CATEGORIES</h3>
 					<ul>
-						<li><a href="product.php?category=1" title="">Jacket</a></li>
-						<li><a href="product.php?category=2" title="">Shirt</a></li>
-						<li><a href="product.php?category=3" title="">Dresses</a></li>
-						<li><a href="product.php?category=4" title="">Jewellery</a></li>
+						<li><a href="product.php?category=1" title="">Travel</a></li>
+						<li><a href="product.php?category=2" title="">Messenger</a></li>
+						<li><a href="product.php?category=3" title="">Laptop</a></li>
+						<li><a href="product.php?category=4" title="">Ladies</a></li>
+						<li><a href="product.php?category=5" title="">Upcoming</a></li>
 					</ul>
 				</div>
 				
-				<div id="fb-root"></div>
-					 <script>
-					//(function(d, s, id) {
-					//   var js, fjs = d.getElementsByTagName(s)[0];
-					//   if (d.getElementById(id)) return;
-					//   js = d.createElement(s); js.id = id;
-					//   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-					//   fjs.parentNode.insertBefore(js, fjs);
-					// }(document, 'script', 'facebook-jssdk'));</script>
-					// <div class="fb-like-box" data-href="https://www.facebook.com/leatherbagsnow" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
-
-					// <a href="https://twitter.com/paliwalck" class="twitter-follow-button" data-show-count="false">Follow @paliwalck</a>
-					// 	<script>
-					// 		!function(d,s,id){
-					// 			var js,fjs=d.getElementsByTagName(s)[0],
-					// 			p=/^http:/.test(d.location)?'http':'https';
-					// 			if(!d.getElementById(id)){js=d.createElement(s);
-					// 				js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
-					// 				fjs.parentNode.insertBefore(js,fjs);
-					// 			}
-					// 		}
-					// 		(document, 'script', 'twitter-wjs');
-						</script>
+				
 
 			</div>
 			
@@ -62,38 +41,29 @@
 			</div>
 			
 			<div class="col-md-3">
-				<h3><i>TOP</i> SOLD</h3>
-				<div class="footer-deal">
-					<div class="footer-deals">
-						<!-- <a href="#" title=""><img src="assets/images/side-bar/latest/1.jpg" width='85px' height='123px' alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/2.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/3.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/4.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/5.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/1.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						 -->
-						</div>
-					
-					<div class="footer-deals">
-						<!-- <a href="#" title=""><img src="assets/images/side-bar/latest/1.jpg" width='85px' height='123px' alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/2.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/3.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/4.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/5.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/1.jpg" alt="" /><span>30% <i>Off</i></span></a>
-					 -->
-					</div>
-					
-					<div class="footer-deals">
-						<!-- <a href="#" title=""><img src="assets/images/side-bar/latest/1.jpg" width='85px' height='123px' alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/2.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/3.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/4.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/5.jpg" alt="" /><span>30% <i>Off</i></span></a>
-						<a href="#" title=""><img src="assets/images/side-bar/latest/1.jpg" alt="" /><span>30% <i>Off</i></span></a>
-					 -->
-					</div>
-				</div>
+				<!-- <div id="fb-root"></div> -->
+					<script>
+					//(function(d, s, id) {
+					//   var js, fjs = d.getElementsByTagName(s)[0];
+					//   if (d.getElementById(id)) return;
+					//   js = d.createElement(s); js.id = id;
+					//   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+					//   fjs.parentNode.insertBefore(js, fjs);
+					// }(document, 'script', 'facebook-jssdk'));</script>
+					<!-- <div class="fb-like-box" data-href="https://www.facebook.com/leatherbagsnow" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div> -->
+
+					<!-- <a href="https://twitter.com/paliwalck" class="twitter-follow-button" data-show-count="false">Follow @paliwalck</a> -->
+					<script>
+					// 		!function(d,s,id){
+					// 			var js,fjs=d.getElementsByTagName(s)[0],
+					// 			p=/^http:/.test(d.location)?'http':'https';
+					// 			if(!d.getElementById(id)){js=d.createElement(s);
+					// 				js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+					// 				fjs.parentNode.insertBefore(js,fjs);
+					// 			}
+					// 		}
+					// 		(document, 'script', 'twitter-wjs');
+						</script>
 			</div>
 			
 		</div>
