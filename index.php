@@ -25,8 +25,6 @@
 <link rel="stylesheet" type="text/css" href="assets/css/index.css" /> <!-- index -->
 <link rel="stylesheet" href="assets/css/custom-product.css" type="text/css" /><!-- Responsive -->
 
-
-	
 </head>
 <body>
 <div class="theme-layout">
@@ -42,29 +40,29 @@
 				<div class="tp-banner-container">
 					<div class="tp-banner" >
 						<ul>
-							<li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="500" >
-								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+							<li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="1">
+								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+
 							</li><!-- SLIDE 1  -->
 
-							<li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="500" >
-								<img src="assets/images/gallary/black_leather_and_jute_messenger_bag_satchel.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
-
+							<li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1" >
+								<img src="assets/images/gallary/black_leather_and_jute_messenger_bag_satchel.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+							
 							</li><!-- SLIDE 2  -->
 
-							<li data-transition="curtain-2" data-slotamount="7" data-masterspeed="500" >
-								<img src="assets/images/gallary/ladies_leather_sling_bag_satchel.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
-
+							<li data-transition="curtain-2" data-slotamount="7" data-masterspeed="1" >
+								<img src="assets/images/gallary/ladies_leather_sling_bag_satchel.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								
 							</li><!-- SLIDE 3  -->
 
-							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="500" >
-								<img src="assets/images/gallary/leather_messenger_bag_satchel_with_front_pocket.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
-
+							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="1" >
+								<img src="assets/images/gallary/leather_messenger_bag_satchel_with_front_pocket.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								
 							</li><!-- SLIDE 4  -->
-							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="500" >
-								<img src="assets/images/gallary/premium_leather_travel_gym_bag.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
-
+							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="1" >
+								<img src="assets/images/gallary/premium_leather_travel_gym_bag.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+							
 							</li><!-- SLIDE 5  -->
-
 							
 
 							
@@ -116,7 +114,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.jpg">
+						<img alt="" src="assets/images/top-sale/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.png">
 						<a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -129,7 +127,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/dark_brown_leather_messenger_bag_satchel_with_front_pocket.jpg">
+						<img alt="" src="assets/images/top-sale/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png">
 						<a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -142,7 +140,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/ladies_leather_sling_bag_satchel.jpg">
+						<img alt="" src="assets/images/top-sale/ladies_leather_sling_bag_satchel.png">
 						<a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -155,7 +153,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/leather_messenger_laptop_bag_satchel.jpg">
+						<img alt="" src="assets/images/top-sale/leather_messenger_laptop_bag_satchel.png">
 						<a href="leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -216,7 +214,7 @@
 	jQuery(document).ready(function() {
 	revapi = jQuery('.tp-banner').revolution(
 	{
-	delay:10000,
+	delay:5000,
 	startwidth:770,
 	startheight:467,
 	autoHeight:"on",
