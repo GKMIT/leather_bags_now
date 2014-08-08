@@ -112,15 +112,15 @@
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 									<div id="size-l" class="tab-pane fade">
-									  <p>Dimension	 : 9'x11'</p>
+									  <p>Dimension	 : 10'x13'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 									<div id="size-m" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
+									 <p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 									<div id="size-s" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
+									 <p>Dimension	 : 12'x17'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 								</div>
@@ -141,21 +141,21 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel</h3>
-						<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+						<p>A must have classic retro style laptop/college messenger bag. this bag comes with two compartment and have a zipper pocket outside & inside. This bag enough room for your books, laptop, files, all phones etc. have an impression on your colleagues, and friends by this trendy unisex bag. you can also adjust carrying of your bag by adjustable shoulder staps.</p>
+					  	<p>Distinctive leather smell that fades within 4-6 weeks of ragular use.</p>
+						<p>Handmade bag no camicals and workplace.</p>
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
-							<li><span>Type</span><p>Messenger & Shoulder & Ladies</p></li>
-							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 12', 11' x 13', 12' x 13'</p></li>
-							<li><span>Material</span><p>Leather & Steel</p></li>
-							<li><span>Number of Pockets</span><p>Four Pocket with Chain</p></li>
-							<li><span>Number of Compartments</span><p>Three compartments available</p></li>
-							<li><span>Straps</span><p>2 Strap available</p></li>
-							<li><span>Other Body Features</span><p>Laptop Sleeve with Velcro Closure, Main Compartment, Adjustable Straps at Back</p></li>
+							<li><span>Color</span><p>Brown</p></li>
+							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17'</p></li>
+							<li><span>Material</span><p>leather</p></li>
+							<li><span>Number of Pockets</span><p>2 Zipper pockets</p></li>
+							<li><span>Number of Compartments</span><p>2 inner compartment</p></li>
+							<li><span>Straps</span><p>1 Strap (Adjustable)</p></li>
 						</ul>
 					</div>
 				</div>

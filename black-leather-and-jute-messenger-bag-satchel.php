@@ -134,8 +134,9 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Black Leather And Jute Messenger Bag Satchel</h3>
-						<p>Distinctive leather smell that fades within 4-6 weeks of ragular use.</p>
 						<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag comes with two components with zip, a zip pocket at back and front. It can accomodate all your laptop, all phone, important files. You can use it as laptop bag, hand briefcase, messenger bag, shoulder bag with its adjustable shoulder strap.</p>						
+						<p>Distinctive leather smell that fades within 4-6 weeks of ragular use.</p>
+						<p>Handmade bag no camicals and workplace</p>
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">

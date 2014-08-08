@@ -142,7 +142,8 @@
 				<div id="tab-photos" class="tab-pane fade active in">
 					<div class="tab-features">
 						<h3>Ladies Leather Sling Bag Satchel</h3>
-						<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+						<p>Create your own fashion statement by this stylish yet simple leather sling bag. The bag comes with two compartments alongwith a zip pocked on back and a pocket on front.</p>
+						<p>You can adjust the bag according to your comfort with the adjustable shoulder strap.</p>
 					  </div>
 				</div>
 				<div id="reviews" class="tab-pane fade">

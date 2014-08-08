@@ -21,3 +21,10 @@
 .owl-carousel .owl-wrapper-outer.autoHeight{
 	height: auto !important;
 }
+.tab-features ul li{
+	width:100% !important;
+}
+
+.tab-features ul li i{
+	background: none repeat scroll 0 0 #926148;
+}
