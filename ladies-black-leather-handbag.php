@@ -119,7 +119,12 @@
 					<div class="tab-features">
 						<h3>Ladies Black Leather Handbag</h3>
 						<p>Enhance your style quotient by this elegent and exclusive handbags. Strips of leather beautifully stiched gives this bag a unique design. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
-					  </div>
+						<ul>
+							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
+							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
+							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
+						</ul>
+					</div>
 				</div>
 				<div id="reviews" class="tab-pane fade">
 					<div class="product-details">
