@@ -108,28 +108,13 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-m">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">11' x 15'</a></li>
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
 									<div id="size-xl" class="tab-pane fade in active">
-										<p>Dimension	 : 9'x11'</p>
+										<p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-l" class="tab-pane fade">
-									  <p>Dimension	 : 9'x11'</p>
-										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-m" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
-										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-s" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
-									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div>
 								</div>
 							</div>
@@ -156,14 +141,13 @@
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
-							<li><span>Type</span><p>Messenger & Shoulder & Ladies</p></li>
-							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 12', 11' x 13', 12' x 13'</p></li>
-							<li><span>Material</span><p>Leather & Steel</p></li>
-							<li><span>Number of Pockets</span><p>Four Pocket with Chain</p></li>
-							<li><span>Number of Compartments</span><p>Three compartments available</p></li>
-							<li><span>Straps</span><p>2 Strap available</p></li>
-							<li><span>Other Body Features</span><p>Laptop Sleeve with Velcro Closure, Main Compartment, Adjustable Straps at Back</p></li>
+							<li><span>Type</span><p>Laptop</p></li>
+							<li><span>Color</span><p>Brown</p></li>
+							<li><span>Sizes</span><p>11' x 15'</p></li>
+							<li><span>Material</span><p>Leather</p></li>
+							<li><span>Number of Pockets</span><p>Sleeve</p></li>
+							<li><span>Number of Compartments</span><p>One Compartments</p></li>						
+							<li><span>Other Features</span><p>IPAD Sleeve</p></li>
 						</ul>
 					</div>
 				</div>
