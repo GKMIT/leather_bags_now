@@ -32,6 +32,12 @@
 		include_once("header.php");
 	?>
 
+<section class="block" id="inner-head">
+	<div class="fixed-img sec-bg4"></div>
+	<div class="container">	
+		<h1>BLACK LEATHER AND JUTE MESSENGER BAG SATCHEL</h1>
+	</div>
+</section>
 
 <section class="block">
 	<div class="container">
@@ -89,33 +95,33 @@
 								<h3 style='text-align: center; padding-right: 5px;'>Black Leather And Jute Messenger Bag Satchel</h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
+
+							<div class="choose-size-tab">
+								<p>Description</p>
+								
+								<div class="tab-content tab-features" id="product-sizes">
+									<div class="tab-pane fade in active description">
+										<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+										<ul>
+											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
+										</ul>
+									</div>
+								</div>
+							</div>
 							
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
 									<li class="active"><a data-toggle="tab" href="#size-xl">11' x 15'</a></li>
-									<!-- <li><a data-toggle="tab" href="#size-l">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-m">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-s">9' x 11'</a></li> -->
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
 									<div id="size-xl" class="tab-pane fade in active">
 										<p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div><!-- 
-									<div id="size-l" class="tab-pane fade">
-									  <p>Dimension	 : 9'x11'</p>
-										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
-									<div id="size-m" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
-										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
-									<div id="size-s" class="tab-pane fade">
-									 <p>Dimension	 : 9'x11'</p>
-									 	<span><i>Rate</i>	 : 50-60$</span>
-									</div> -->
 								</div>
 							</div>
 							
@@ -127,22 +133,10 @@
 		<div class="shop-tabs">
 			<div class="col-md-12">
 			  <ul class="nav nav-tabs shop-tab" id="myTab3">
-				<li class="active"><a data-toggle="tab" href="#tab-photos">Description</a></li>
-				<li class=""><a data-toggle="tab" href="#reviews">Features</a></li>
+				<li class="active"><a data-toggle="tab" href="#reviews">Features</a></li>
 			  </ul>
 			  <div class="tab-content" id="myTabContent5">
-				<div id="tab-photos" class="tab-pane fade active in">
-					<div class="tab-features">
-						<h3>Black Leather And Jute Messenger Bag Satchel</h3>
-						<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
-						<ul>
-							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
-							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
-							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
-						</ul>
-					</div>
-				</div>
-				<div id="reviews" class="tab-pane fade">
+				<div id="reviews" class="tab-pane fade active in">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>

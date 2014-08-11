@@ -28,3 +28,30 @@
 .tab-features ul li i{
 	background: none repeat scroll 0 0 #926148;
 }
+#product-sizes > div > p{
+	text-align: justify;
+}
+
+.choose-size-tab > p{
+	font-weight: bold;
+}
+
+#inner-head h1{
+	font-size: 35px;
+}
+
+.description-content{
+	padding-left:2%;
+	font-family: open sans;
+	font-size: 13px;
+	letter-spacing: 0.3px;
+	text-align:justify;
+}
+
+.description ul li{
+	margin-top: 3%;
+}
+
+.choose-size-tab{
+	margin-top: 5%;
+}

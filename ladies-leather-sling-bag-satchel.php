@@ -2,9 +2,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Index</title>
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<title>Ladies Leather Sling Bag Satchel</title>
+<meta name="description" content="handmade ladies bag easy to carry and handle the stuff required" />
+<meta name="keywords" content="ladies hand bag, ladies satchel bag, ladies sling bag, tote bag, ladies purses, leather ladies handbag, leather tote bag, leather messenger bag, ladies handmade bag" />
 
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
@@ -34,12 +34,12 @@
 	
 	
 	
-<!-- <section class="block" id="inner-head">
+<section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>PRODUCT DETAIL</h1>
+		<h1>LADIES LEATHER SLING BAG SATCHEL</h1>
 	</div>
-</section> -->
+</section>
 
 <section class="block">
 	<div class="container">
@@ -97,6 +97,21 @@
 								<h3 style='text-align: center; padding-right: 5px;'>Ladies Leather Sling Bag Satchel </h3>
 								<p>CATEGORIES: <i>Ladies</i> </p>
 							</div>
+
+							<div class="choose-size-tab">
+								<p>Description</p>
+								
+								<div class="tab-content tab-features" id="product-sizes">
+									<div class="tab-pane fade in active description">
+										<p>Create your own fashion statement by this stylish yet simple leather sling bag. The bag comes with two compartments along with a zip pocket on back and a pocket in front. You can adjust the bag according to your comfort with the adjustable shoulder strap.</p>
+										<ul>
+											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
+										</ul>
+									</div>
+								</div>
+							</div>
 							
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
@@ -135,22 +150,10 @@
 		<div class="shop-tabs">
 			<div class="col-md-12">
 			  <ul class="nav nav-tabs shop-tab" id="myTab3">
-				<li class="active"><a data-toggle="tab" href="#tab-photos">Description</a></li>
-				<li class=""><a data-toggle="tab" href="#reviews">Features</a></li>
+				<li class="active"><a data-toggle="tab" href="#reviews">Features</a></li>
 			  </ul>
 			  <div class="tab-content" id="myTabContent5">
-				<div id="tab-photos" class="tab-pane fade active in">
-					<div class="tab-features">
-						<h3>Ladies Leather Sling Bag Satchel</h3>
-						<p>Create your own fashion statement by this stylish yet simple leather sling bag. The bag comes with two compartments along with a zip pocket on back and a pocket in front. You can adjust the bag according to your comfort with the adjustable shoulder strap.</p>
-						<ul>
-							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
-							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
-							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
-						</ul>
-					  </div>
-				</div>
-				<div id="reviews" class="tab-pane fade">
+				<div id="reviews" class="tab-pane fade active in">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>

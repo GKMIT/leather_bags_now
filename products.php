@@ -31,6 +31,14 @@
 	<?php
 		include_once("header.php");
 	?>
+
+<section class="block" id="inner-head">
+	<div class="fixed-img sec-bg4"></div>
+	<div class="container">	
+		<h1>PRODUCT PAGE</h1>
+	</div>
+</section>
+
 <section class="block">
 	<div class="container">
 		<div class="row">

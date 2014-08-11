@@ -16,11 +16,11 @@
 				<div class="footer-category">
 				<h3><i>PORDUCT</i> CATEGORIES</h3>
 					<ul>
-						<li><a href="product.php?category=1" title="">Travel</a></li>
-						<li><a href="product.php?category=2" title="">Messenger</a></li>
-						<li><a href="product.php?category=3" title="">Laptop</a></li>
-						<li><a href="product.php?category=4" title="">Ladies</a></li>
-						<li><a href="product.php?category=5" title="">Upcoming</a></li>
+						<li><a href="products.php?category=1" title="">Travel</a></li>
+						<li><a href="products.php?category=2" title="">Messenger</a></li>
+						<li><a href="products.php?category=3" title="">Laptop</a></li>
+						<li><a href="products.php?category=4" title="">Ladies</a></li>
+						<li><a href="products.php?category=5" title="">Upcoming</a></li>
 					</ul>
 				</div>
 				

@@ -2,9 +2,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Index</title>
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<title>Light Brown Leather Duffle Bag Satchel</title>
+<meta name="description" content="handmade leather travel bags ideal for luggage of two people for three-four days" />
+<meta name="keywords" content="leather, duffle, bag, travel, gym, satchel, luggage, crossbody, round, duffle, flap" /> 
 
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
@@ -32,6 +32,12 @@
 		include_once("header.php");
 	?>
 
+<section class="block" id="inner-head">
+	<div class="fixed-img sec-bg4"></div>
+	<div class="container">	
+		<h1>LIGHT BROWN LEATHER DUFFLE BAG SATCHEL</h1>
+	</div>
+</section>
 
 <section class="block">
 	<div class="container">
@@ -81,6 +87,21 @@
 								<h3 style='text-align: center; padding-right: 5px;'>Light Brown Leather Duffle Bag Satchel </h3>
 								<p>CATEGORIES: <i>Travel</i> </p>
 							</div>
+
+							<div class="choose-size-tab">
+								<p>Description</p>
+								
+								<div class="tab-content tab-features" id="product-sizes">
+									<div class="tab-pane fade in active description">
+										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<ul>
+											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
+										</ul>
+									</div>
+								</div>
+							</div>
 							
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
@@ -114,17 +135,10 @@
 		<div class="shop-tabs">
 			<div class="col-md-12">
 			  <ul class="nav nav-tabs shop-tab" id="myTab3">
-				<li class="active"><a data-toggle="tab" href="#tab-photos">Description</a></li>
-				<li class=""><a data-toggle="tab" href="#reviews">Features</a></li>
+				<li class="active"><a data-toggle="tab" href="#reviews">Features</a></li>
 			  </ul>
 			  <div class="tab-content" id="myTabContent5">
-				<div id="tab-photos" class="tab-pane fade active in">
-					<div class="tab-features">
-						<h3>Light Brown Leather Duffle Bag Satchel</h3>
-						<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
-					  </div>
-				</div>
-				<div id="reviews" class="tab-pane fade">
+				<div id="reviews" class="tab-pane fade active in">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>

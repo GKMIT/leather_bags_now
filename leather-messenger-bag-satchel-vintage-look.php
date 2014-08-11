@@ -2,21 +2,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Index</title>
-<meta name="description" content="" />
-<meta name="keywords" content="" />
-
+<title>leather Messenger Bag Satchel Vintage Look</title>
+<meta name="description" content="handmade leather travel bags ideal for luggage of two people for three-four days" />
+<meta name="keywords" content="leather, duffle, bag, travel, gym, satchel, luggage, crossbody, round, duffle, flap" /> 
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
-
 
 <!-- Styles -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" /><!-- Bootstrap -->
 <link rel="stylesheet" href="assets/font-awesome-4.0.3/css/font-awesome.css" type="text/css" /><!-- Font Awesome -->
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css" /><!-- Owl Carousal -->	
 <link rel="stylesheet" href="assets/css/animate.css" type="text/css" /><!-- Animation -->	
-
-
 
 <link rel="stylesheet" href="assets/css/style.css" type="text/css" /><!-- Style -->	
 <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" /><!-- Responsive -->
@@ -32,6 +28,12 @@
 		include_once("header.php");
 	?>
 
+<section class="block" id="inner-head">
+	<div class="fixed-img sec-bg4"></div>
+	<div class="container">	
+		<h1>LEATHER MESSENGER BAG SATCHEL VINTAGE LOOK</h1>
+	</div>
+</section>
 
 <section class="block">
 	<div class="container">
@@ -106,6 +108,21 @@
 							</div>
 							
 							<div class="choose-size-tab">
+								<p>Description</p>
+								
+								<div class="tab-content tab-features" id="product-sizes">
+									<div class="tab-pane fade in active description">
+										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag,shopping bag,college bag etc.</p>
+										<ul>
+											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
+											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
 									<li class="active"><a data-toggle="tab" href="#size-xl">12' x 16'</a></li>
@@ -128,22 +145,10 @@
 		<div class="shop-tabs">
 			<div class="col-md-12">
 			  <ul class="nav nav-tabs shop-tab" id="myTab3">
-				<li class="active"><a data-toggle="tab" href="#tab-photos">Description</a></li>
-				<li class=""><a data-toggle="tab" href="#reviews">Features</a></li>
+				<li class="active"><a data-toggle="tab" href="#reviews">Features</a></li>
 			  </ul>
 			  <div class="tab-content" id="myTabContent5">
-				<div id="tab-photos" class="tab-pane fade active in">
-					<div class="tab-features">
-						<h3>Leather Messenger Bag Satchel Vintage Look</h3>
-						<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag,shopping bag,college bag etc.</p>
-						<ul>
-							<li><i class="fa fa-check"></i><p>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</p></li>
-							<li><i class="fa fa-check"></i><p>Handmade bag</p></li>
-							<li><i class="fa fa-check"></i><p>No chemicals used.</p></li>	
-						</ul>
-					</div>
-				</div>
-				<div id="reviews" class="tab-pane fade">
+				<div id="reviews" class="tab-pane fade active in">
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
