@@ -2,9 +2,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Index</title>
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<title>Black Leather And Jute Messenger Bag Satchel</title>
+<meta name="description" content="leather laptop messenger bag blended with jute giving a classic look" />
+<meta name="keywords" content="leather laptop bag, leather messenger bag, leather satchel, satchel messenger, handmade leather bag, vintage look leather bag, jute laptop bag, stylish mac book bag, messenger satchel" />
 
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
