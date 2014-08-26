@@ -6,6 +6,8 @@
 <meta name="description" content="ideal bag for office use and cases for laptops with study and retro look" />
 <meta name="keywords" content="leather laptop bag, mens messenger bag, leather messenger bag, leather satchel bag, bike messenger, office messenger, satchel messenger bag, crossbody messenger bag, mens satchel bag, macbook bag" />
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 

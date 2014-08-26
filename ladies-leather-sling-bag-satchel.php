@@ -7,6 +7,8 @@
 <meta name="keywords" content="ladies hand bag, ladies satchel bag, ladies sling bag, tote bag, ladies purses, leather ladies handbag, leather tote bag, leather messenger bag, ladies handmade bag" />
 
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 
 

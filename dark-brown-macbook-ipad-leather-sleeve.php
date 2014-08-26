@@ -6,6 +6,8 @@
 <meta name="description" content="A String and attractive sleeves for i pad and macbook of all sizes" />
 <meta name="keywords" content="leather sleeve, ipad, macbook, laptop cover, leather laptop sleeve, leather messenger bag, handmade leather sleeves" />
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 

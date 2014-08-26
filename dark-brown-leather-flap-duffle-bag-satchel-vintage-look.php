@@ -8,6 +8,8 @@
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <!-- Styles -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" /><!-- Bootstrap -->

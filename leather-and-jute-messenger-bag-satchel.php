@@ -6,6 +6,8 @@
 <meta name="description" content="leather laptop messenger bag blended with jute giving a classic look" />
 <meta name="keywords" content="leather laptop bag, leather messenger bag, leather satchel, satchel messenger, handmade leather bag, vintage look leather bag, jute laptop bag, stylish mac book bag, messenger satchel" />
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 

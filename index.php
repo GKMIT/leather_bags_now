@@ -41,26 +41,26 @@
 					<div class="tp-banner" >
 						<ul>
 							<li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="1">
-								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png"  alt="dark brown leather messenger bag satchel with front pocket"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 
 							</li><!-- SLIDE 1  -->
 
 							<li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1" >
-								<img src="assets/images/gallary/black_leather_and_jute_messenger_bag_satchel.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								<img src="assets/images/gallary/black_leather_and_jute_messenger_bag_satchel.png"  alt="black leather and jute messenger bag satchel"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 							
 							</li><!-- SLIDE 2  -->
 
 							<li data-transition="curtain-2" data-slotamount="7" data-masterspeed="1" >
-								<img src="assets/images/gallary/ladies_leather_sling_bag_satchel.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								<img src="assets/images/gallary/ladies_leather_sling_bag_satchel.png"  alt="ladies leather sling bag satchel"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 								
 							</li><!-- SLIDE 3  -->
 
 							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="1" >
-								<img src="assets/images/gallary/leather_messenger_bag_satchel_with_front_pocket.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								<img src="assets/images/gallary/leather_messenger_bag_satchel_with_front_pocket.png"  alt="leather messenger bag satchel with front pocket"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 								
 							</li><!-- SLIDE 4  -->
 							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="1" >
-								<img src="assets/images/gallary/premium_leather_travel_gym_bag.png"  alt="slidebg1"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+								<img src="assets/images/gallary/premium_leather_travel_gym_bag.png"  alt="premium leather travel gym bag"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 							
 							</li><!-- SLIDE 5  -->
 							
@@ -81,15 +81,15 @@
 							<div id="recent" class="tab-pane fade in active">
 								<div class="tab-recent" id="tab-recent">
 									<ul>
-										<li><span><img src="assets/images/side-bar/latest/black_leather_and_jute_messenger_bag_satchel.png" alt="" /></span>
+										<li><span><img src="assets/images/side-bar/latest/black_leather_and_jute_messenger_bag_satchel.png" alt="black leather and jute messenger bag satchel" /></span>
 											<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">Black Leather And Jute Messenger Bag Satchel</a></h3>
 										</li>
 										
-										<li><span><img src="assets/images/side-bar/latest/leather_and_jute_messenger_bag_satchel.png" alt="" /></span>
+										<li><span><img src="assets/images/side-bar/latest/leather_and_jute_messenger_bag_satchel.png" alt="leather and jute messenger bag satchel" /></span>
 											<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">Leather And Jute Messenger Bag Satchel</a></h3>
 										</li>
 										
-										<li><span><img src="assets/images/side-bar/latest/leather_messenger_bag_satchel_retro_look.png" alt="" /></span>
+										<li><span><img src="assets/images/side-bar/latest/leather_messenger_bag_satchel_retro_look.png" alt="sidebar latest leather messenger bag satchel retro look" /></span>
 											<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="leather messenger bag satchel retro look">Leather Messenger Bag Satchel Retro Look</a></h3>
 										</li>
 									</ul>
@@ -114,7 +114,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.png">
+						<img alt="dark brown full flap laptop messenger leather bag satchel" src="assets/images/top-sale/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.png">
 						<a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -127,7 +127,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png">
+						<img alt="dark brown leather messenger bag satchel with front pocket" src="assets/images/top-sale/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png">
 						<a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -140,7 +140,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/ladies_leather_sling_bag_satchel.png">
+						<img alt="ladies leather sling bag satchel" src="assets/images/top-sale/ladies_leather_sling_bag_satchel.png">
 						<a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>
@@ -153,7 +153,7 @@
 			<div class="col-md-3">
 				<div class="best-seller most-sold">
 					<div class="sold-thumb">
-						<img alt="" src="assets/images/top-sale/leather_messenger_laptop_bag_satchel.png">
+						<img alt="leather messenger laptop bag satchel" src="assets/images/top-sale/leather_messenger_laptop_bag_satchel.png">
 						<a href="leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
 						<i class="box1"></i>
 						<i class="box2"></i>

@@ -6,6 +6,8 @@
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link rel="stylesheet" type="text/css" href="assets/font-awesome-4.0.3/css/fonts.css">
 

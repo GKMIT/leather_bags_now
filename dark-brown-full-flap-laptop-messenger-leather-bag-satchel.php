@@ -6,6 +6,8 @@
 <meta name="description" content="leather messenger bag for laptop, documents, office use" />
 <meta name="keywords" content="eather messenger bag, calf leather bag, leather satchel, satchel messanger, laptop satchel, leather laptop bag, mens messenger bag, macbook bag, bike messenger, shoulder bag" />
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 

@@ -6,6 +6,8 @@
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
 
@@ -60,7 +62,7 @@
 	
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown leather messenger bag satchel with front pocket" src="assets/images/products/dark_brown_leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -75,7 +77,7 @@
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/black_leather_and_jute_messenger_bag_satchel.jpg"><a href="black-leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="black leather and jute messenger bag satchel" src="assets/images/products/black_leather_and_jute_messenger_bag_satchel.jpg"><a href="black-leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -88,7 +90,7 @@
 
 						<div class="cat4 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/ladies_leather_sling_bag_satchel.jpg"><a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="ladies leather sling bag satchel" src="assets/images/products/ladies_leather_sling_bag_satchel.jpg"><a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -101,7 +103,7 @@
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold ">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-leather-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="black leather messenger bag satchel" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-leather-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -115,7 +117,7 @@
 						
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.jpg"><a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown full flap laptop messenger leather bag satchel" src="assets/images/products/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.jpg"><a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -128,7 +130,7 @@
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_and_jute_messenger_bag_satchel.jpg"><a href="leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather and jute messenger bag satchel" src="assets/images/products/leather_and_jute_messenger_bag_satchel.jpg"><a href="leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -141,7 +143,7 @@
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger bag satchel with front pocket" src="assets/images/products/leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -154,7 +156,7 @@
 						
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_messenger_bag_satchel_retro_look.png"><a href="leather-messenger-bag-satchel-retro-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger bag satchel retro look" src="assets/images/products/leather_messenger_bag_satchel_retro_look.png"><a href="leather-messenger-bag-satchel-retro-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -167,7 +169,7 @@
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_messenger_bag_satchel_vintage_look.jpg"><a href="leather-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger bag satchel vintage look" src="assets/images/products/leather_messenger_bag_satchel_vintage_look.jpg"><a href="leather-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -180,7 +182,7 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_messenger_laptop_bag_satchel.jpg"><a href="leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger laptop bag satchel" src="assets/images/products/leather_messenger_laptop_bag_satchel.jpg"><a href="leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -193,7 +195,7 @@
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather office messenger_bag_satchel_vintage_look.jpg"><a href="leather-office-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather office messenger bag satchel vintage look" src="assets/images/products/leather office messenger_bag_satchel_vintage_look.jpg"><a href="leather-office-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -206,7 +208,7 @@
 
 						<div class="cat1 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/light_brown_leather_duffle_bag_satchel.jpg"><a href="light-brown-leather-duffle-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="light brown leather duffle bag satchel" src="assets/images/products/light_brown_leather_duffle_bag_satchel.jpg"><a href="light-brown-leather-duffle-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -219,7 +221,7 @@
 
 						<div class="cat1 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_leather_flap_duffle_bag_satchel_vintage_look.jpg"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown leather flap duffle bag satchel vintage look" src="assets/images/products/dark_brown_leather_flap_duffle_bag_satchel_vintage_look.jpg"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -232,7 +234,7 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/full_flap_macbook_messenger_leather_bag_satchel.jpg"><a href="full-flap-macbook-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="full flap macbook messenger leather bag satchel" src="assets/images/products/full_flap_macbook_messenger_leather_bag_satchel.jpg"><a href="full-flap-macbook-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -245,7 +247,7 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_macbook_ipad_leather_sleeve.jpg"><a href="dark-brown-macbook-ipad-leather-sleeve.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown macbook ipad leather sleeve" src="assets/images/products/dark_brown_macbook_ipad_leather_sleeve.jpg"><a href="dark-brown-macbook-ipad-leather-sleeve.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -258,7 +260,7 @@
 
 						<div class="cat4 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/ladies_black_leather_handbag.jpg"><a href="ladies-black-leather-handbag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="ladies black leather handbag" src="assets/images/products/ladies_black_leather_handbag.jpg"><a href="ladies-black-leather-handbag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -271,7 +273,7 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_bike_messenger_bag_satchel.jpg"><a href="leather-bike-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather bike messenger bag satchel" src="assets/images/products/leather_bike_messenger_bag_satchel.jpg"><a href="leather-bike-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -284,7 +286,7 @@
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/leather_office_messenger_bag_satchel.jpg"><a href="leather-office-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather office messenger bag satchel" src="assets/images/products/leather_office_messenger_bag_satchel.jpg"><a href="leather-office-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -297,7 +299,7 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/dark_brown_leather_messenger_laptop_bag_satchel.jpg"><a href="dark-brown-leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown leather messenger laptop bag satchel" src="assets/images/products/dark_brown_leather_messenger_laptop_bag_satchel.jpg"><a href="dark-brown-leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -313,7 +315,7 @@
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
 								<div class="sold-thumb">
-									<img alt="" src="assets/images/products/3_in_1_leather_bag-shoulder_bag_backpack_briefcase.jpg">
+									<img alt="3 in 1 leather bag-shoulder bag backpack briefcase" src="assets/images/products/3_in_1_leather_bag-shoulder_bag_backpack_briefcase.jpg">
 									<a href="3-in-1-leather-bag-shoulder-bag-backpack-briefcase.php" title="">
 										VIEW DETAILS
 									</a>
@@ -329,7 +331,7 @@
 
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_laptop_bag.jpg"><a href="premium-leather-laptop-bag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="premium leather laptop bag" src="assets/images/products/premium_leather_laptop_bag.jpg"><a href="premium-leather-laptop-bag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -343,7 +345,7 @@
 
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_square_duffle_bag.jpg"><a href="premium-leather-square-duffle-bag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="premium leather square duffle bag" src="assets/images/products/premium_leather_square_duffle_bag.jpg"><a href="premium-leather-square-duffle-bag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
@@ -356,7 +358,7 @@
 
 						<div class="cat5 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="" src="assets/images/products/premium_leather_travel_gym_bag.jpg"><a href="premium-leather-travel-gym-bag.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="premium leather travel gym bag" src="assets/images/products/premium_leather_travel_gym_bag.jpg"><a href="premium-leather-travel-gym-bag.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
