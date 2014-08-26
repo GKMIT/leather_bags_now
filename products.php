@@ -50,11 +50,11 @@
 					<div id="masonay-nav">
 						<ul>
 							<li><a href="" data-filter="*" class="active">All</a></li>
-							<li><a href="" data-filter=".cat1" id="cat-1">Travel</a></li>
-							<li><a href="" data-filter=".cat2" id="cat-2">Messenger</a></li>
 							<li><a href="" data-filter=".cat3" id="cat-3">Laptop</a></li>
+							<li><a href="" data-filter=".cat2" id="cat-2">Messenger</a></li>
 							<li><a href="" data-filter=".cat4" id="cat-4">Ladies</a></li>
-							<li><a href="" data-filter=".cat5" id="cat-5">Upcomming</a></li>
+							<li><a href="" data-filter=".cat1" id="cat-1">Travel</a></li>
+							<li><a href="" data-filter=".cat5" id="cat-5">Upcoming</a></li>
 						</ul>
 					</div>
 

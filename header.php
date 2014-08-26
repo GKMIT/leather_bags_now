@@ -18,11 +18,11 @@
 									Products 
 								</a>
 							</li>
-							<li>
+							<!-- <li>
 								<a href="blog.php" title="">
 									Blog 
 								</a>
-							</li>
+							</li> -->
 							<li>
 								<a href="contact.php" title="">
 									Contact 

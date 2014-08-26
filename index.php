@@ -2,9 +2,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now</title>
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<title>Leather Bags Now - Increase your style quotient</title>
+<meta name="description" content="handmade leather messenger bags and satchels for laptops offices schools ladies sling bags" />
+<meta name="keywords" content="handmade leather messenger satchel lapstops school office travel rucksack duffel backpack handbag sling tote" />
 <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
@@ -31,6 +31,13 @@
 	<?php
 		include_once("header.php");
 	?>
+
+<section class="block" id="inner-head">
+	<div class="fixed-img sec-bg4"></div>
+	<div class="container">	
+		<h1>Increase Your Style Quotient</h1>
+	</div>
+</section>
 
 
 <section class="block">

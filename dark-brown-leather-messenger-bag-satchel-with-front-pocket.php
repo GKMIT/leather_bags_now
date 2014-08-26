@@ -94,7 +94,7 @@
 					<div class="col-md-6">
 						<div class="single-post-desc">
 							<div class="single-post-head">
-								<span>CG12</span>
+								<span>CZ12</span>
 								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Leather Messenger Bag Satchel With Front Pocket</h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>

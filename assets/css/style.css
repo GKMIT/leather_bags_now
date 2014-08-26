@@ -9,7 +9,7 @@ body {
 /* General Setting */
 .block {
     float: left;
-    padding: 70px 0;
+    padding: 30px 0;
     position: relative;
     width: 100%;
     z-index: auto;
@@ -10527,6 +10527,7 @@ footer p {
     line-height: 21px;
     margin: 0;
     width: 100%;
+    text-align: justify;
 }
 .footer-about {
     background: url("../images/map.png") no-repeat scroll center bottom rgba(0, 0, 0, 0);
