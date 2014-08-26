@@ -9,12 +9,12 @@
 					<p>Our bags are 100% handmade and purest and finest quality of leather is used while strictly avoiding use of any chemicals in the process of creating our bags.</p>
 					<p>All the leather used for our goods is acquired by proper legal means and a team of finest artisans and craftsmen work on the products.</p>
 					<p>Currently we are dealing in handmade leather messenger bags/satchels which are ideal for offices, schools and general use.</p>
-					<p>Please note that since our bags are handmade all bags have different texture with minor difference in leather shade. We are heads on heels for our customer satisfaction, please feel free to write us at enquiries@leatherbagsnow.com</p>
+					<p>Please note that since our bags are handmade all bags have different texture with minor difference in leather shade. We are heads on heels for our customer satisfaction, please feel free to write us at <a href="mailto:contact@leatherbagsnow.com">contact@leatherbagsnow.com</a></p>
 					<p>Its time to increase your style quotient.</p>
 					<p>Team LBN</p>
 					<ul>
 						<li><span><i class="fa fa-mobile"></i></span><p>Mobile 1:   +91-9166152999</p><p>Mobile 2:        + 91-9887897376	</p></li>
-						<li><span><i class="fa fa-envelope-o"></i></span><p>Email:       contact@leatherbagsnow.com</p><p>Address:   1st street, Hiran Magri, Rajasthan - 313002</p></li>
+						<li><span><i class="fa fa-envelope-o"></i></span><p>Email:       <a href="mailto:contact@leatherbagsnow.com">contact@leatherbagsnow.com</a></p><p>Address:   1st street, Hiran Magri, Rajasthan - 313002</p></li>
 					</ul>
 				</div>
 			</div>
