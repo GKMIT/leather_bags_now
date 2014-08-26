@@ -58,8 +58,8 @@
 .info-product-icon{
 	color: red;
 	font-size: 10px !important;
-	
+
 }
 .info-product{
-	font-size: 10px
+	font-size: 10px !important;
 }
