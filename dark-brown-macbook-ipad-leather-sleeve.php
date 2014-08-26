@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Dark Brown Macbook ipad Leather Sleeve</title>
+<title>Leather Bags Now/Dark Brown Macbook ipad Leather Sleeve</title>
 <meta name="description" content="A String and attractive sleeves for i pad and macbook of all sizes" />
 <meta name="keywords" content="leather sleeve, ipad, macbook, laptop cover, leather laptop sleeve, leather messenger bag, handmade leather sleeves" />
 

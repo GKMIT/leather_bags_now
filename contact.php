@@ -14,7 +14,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Index</title>
+<title>Leather Bags Now/Contact us</title>
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 

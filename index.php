@@ -2,13 +2,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Index</title>
+<title>Leather Bags Now</title>
 <meta name="description" content="" />
 <meta name="keywords" content="" />
-
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <link href='assets/theme font/style.css' rel='stylesheet' type='text/css'>
-
 
 <!-- Styles -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" /><!-- Bootstrap -->
