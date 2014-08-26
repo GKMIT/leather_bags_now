@@ -105,10 +105,11 @@
 									<div class="tab-pane fade in active description">
 										<p>Arrive your office in style with this exclusive black colored leather office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 										<ul>
-											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
 											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
 										</ul>
+										<span class="info-product"><i class="fa fa-asterisk info-product-icon"></i>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span>
 									</div>
 								</div>
 							</div>
@@ -122,7 +123,7 @@
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
-									<div id="size-xl" class="tab-pane fade in active">
+									<!-- <div id="size-xl" class="tab-pane fade in active">
 										<p>Dimension	 : 10' x 13'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
@@ -133,7 +134,8 @@
 									<div id="size-m" class="tab-pane fade">
 									 <p>Dimension	 : 12'x17'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
+									</div> -->
+									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							

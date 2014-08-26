@@ -116,10 +116,11 @@
 									<div class="tab-pane fade in active description">
 										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag,shopping bag,college bag etc.</p>
 										<ul>
-											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
 											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
 										</ul>
+										<span class="info-product"><i class="fa fa-asterisk info-product-icon"></i>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span>
 									</div>
 								</div>
 							</div>
@@ -132,10 +133,11 @@
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
-									<div id="size-xl" class="tab-pane fade in active">
+									<!-- <div id="size-xl" class="tab-pane fade in active">
 										<p>Dimension	 : 12' x 16'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
+									</div> -->
+									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							

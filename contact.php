@@ -70,19 +70,18 @@
 							<ul class="social-btns">
 								<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title=""><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 						<div class="col-md-6 contact-info">
-							<span><i class="fa fa-map-marker"></i>Purus Elit A Duis Nunc Winf</span>
-							<span><i class="fa fa-envelope-o"></i>Simple@your.com</span>
-							<span><i class="fa fa-mobile"></i>(123.123.777)  (123.123.777)</span>
+							<span><i class="fa fa-map-marker"></i>Hiran Magri, Udaipur, Rajasthan, 313001</span>
+							<span><i class="fa fa-envelope-o"></i><a href="mailto:contact@leatherbagsnow.com">contact@leatherbagsnow.com</a></span>
+							<span><i class="fa fa-mobile"></i>(+91-9166152999)  (+91-9887897376)</span>
 						</div>
 					</div>
 					
-					<iframe height="400" src="https://maps.google.com/?ie=UTF8&amp;ll=24.5800,73.6800&amp;spn=24.5800,73.6800&amp;t=m&amp;z=4&amp;output=embed"></iframe><br />
+					<!-- <iframe height="400" src="https://maps.google.com/?ie=UTF8&amp;ll=24.5826857,73.711169&amp;spn=24.5826857,73.711169&amp;t=m&amp;z=10&amp;output=embed"></iframe><br />				 -->
 				</div>
-				
+					
 				
 				<div class="contact-form">
 					<div class="heading1">

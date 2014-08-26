@@ -107,10 +107,11 @@
 									<div class="tab-pane fade in active description">
 										<p>Create your own fashion statement by this stylish yet simple leather sling bag. The bag comes with two compartments along with a zip pocket on back and a pocket in front. You can adjust the bag according to your comfort with the adjustable shoulder strap.</p>
 										<ul>
-											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
 											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
 										</ul>
+										<span class="info-product"><i class="fa fa-asterisk info-product-icon"></i>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span>
 									</div>
 								</div>
 							</div>
@@ -125,7 +126,7 @@
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
-									<div id="size-xl" class="tab-pane fade in active">
+									<!-- <div id="size-xl" class="tab-pane fade in active">
 										<p>Dimension	 : 9'x11'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
@@ -140,7 +141,8 @@
 									<div id="size-s" class="tab-pane fade">
 									 <p>Dimension	 : 12' x 13'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
-									</div>
+									</div> -->
+									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							

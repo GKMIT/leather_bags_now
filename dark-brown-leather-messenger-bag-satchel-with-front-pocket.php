@@ -106,10 +106,11 @@
 									<div class="tab-pane fade in active description">
 										<p>Leave an impression on your colleagues and friends with this classic unisex leather bag. It comes with two compartments, one zip pocket at the back & one in the front. It also has a separate front pocket for cell phone and other essentials. This highly durable and sturdy bag comes with high quality metal fittings.</p>
 										<ul>
-											<li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li>
+											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
 											<li><i class="fa fa-check"></i><span class="description-content">No chemicals used.</span></li>	
 										</ul>
+										<span class="info-product"><i class="fa fa-asterisk info-product-icon"></i>Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span>
 									</div>
 								</div>
 							</div>
@@ -123,7 +124,7 @@
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
-									<div id="size-xl" class="tab-pane fade in active">
+									<!-- <div id="size-xl" class="tab-pane fade in active">
 										<p>Dimension	 : 7' x 9'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div>
@@ -134,7 +135,8 @@
 									<div id="size-m" class="tab-pane fade">
 									 <p>Dimension	 : 10' x 13'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
-									</div>
+									</div> -->
+									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
