@@ -56,10 +56,11 @@
 	margin-top: 5%;
 }
 .info-product-icon{
-	color: red;
+	color: lightgray !important;
 	font-size: 10px !important;
 
 }
 .info-product{
+	color: lightgray !important;
 	font-size: 10px !important;
 }

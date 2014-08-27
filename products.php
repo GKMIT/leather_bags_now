@@ -37,7 +37,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>PRODUCT PAGE</h1>
+		<h1>PRODUCTS PAGE</h1>
 	</div>
 </section>
 

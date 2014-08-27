@@ -106,9 +106,8 @@
 							</div>
 							
 							<div class="choose-size-tab">
-								<p>Available Sizes</p>
+								<p>Available Sizes Only</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">16' x 13'</a></li>
 									<li><a data-toggle="tab" href="#size-l">11' x 15'</a></li>
 								</ul>
 								

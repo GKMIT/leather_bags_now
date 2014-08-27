@@ -50,13 +50,13 @@
 						<div class="single-product-tab">						
 							<div class="tab-content" id="single-post-content">
 								<div id="single-post1" class="tab-pane fade in active">
-								   <img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_1_large.jpg" alt="Messenger" title="leather bike messenger bag satchel" /> 
+								   <img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_3_large.jpg" alt="Messenger" title="leather bike messenger bag satchel" /> 
 								</div>
 								<div id="single-post2" class="tab-pane fade">
 								  <img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_2_large.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
 								</div>
 								<div id="single-post3" class="tab-pane fade">
-								  <img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_3_large.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
+								  <img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_1_large.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
 								</div>
 								<div id="single-post4" class="tab-pane fade">
 								  <img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_4_large.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
@@ -66,7 +66,7 @@
 							<ul class="nav nav-tabs" id="single-post-tabs">
 								<li class="active">
 									<a data-toggle="tab" href="#single-post1">
-										<img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_1_thumb.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
+										<img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_3_thumb.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
 									</a>
 								</li>
 								<li>
@@ -76,7 +76,7 @@
 								</li>
 								<li>
 									<a data-toggle="tab" href="#single-post3">
-										<img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_3_thumb.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
+										<img src="assets/images/products/product-detail/leather bike messenger bag satchel/leather_bike_messenger_bag_satchel_1_thumb.jpg" alt="Messenger" title="leather bike messenger bag satchel" />
 									</a>
 								</li>
 								<li>

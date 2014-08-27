@@ -112,7 +112,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegent and exclusive leather sleeve or pouch for your ipad, tablets. This is the most stylish way to carry your gadgets.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>

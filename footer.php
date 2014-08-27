@@ -9,7 +9,7 @@
 					<p>Our bags are 100% handmade. Finest and purest quality of leather is used. We strictly avoid use of any chemicals in the process of creating bags.</p>
 					<p>All the leather used for our goods is acquired by proper legal means and a team of finest artisans and craftsmen work on the products.</p>
 					<p>Currently we are dealing in handmade leather messenger bags/satchels which are ideal for offices, schools and general use.</p>
-					<p>Please note that since our bags are handmade all bags have different texture with minor difference in leather shade. We are heads on heels for our customer satisfaction, please feel free to write us at <a href="mailto:contact@leatherbagsnow.com">contact@leatherbagsnow.com</a></p>
+					<p>Please note that since our bags are handmade all bags have different texture with minor difference in leather shade. We are heads on heels for our customer satisfaction, please feel free to write us at <a href="mailto:enquiries@leatherbagsnow.com">enquiries@leatherbagsnow.com</a></p>
 					<p>Its time to increase your style quotient.</p>
 					<p>Team LBN</p>
 					<ul>

@@ -142,7 +142,7 @@
 							<li><span>Material</span><p>Buffalo Leather</p></li>
 							<li><span>Number of Pockets</span><p>One Zipper Pocket</p></li>
 							<li><span>Number of Compartments</span><p>One Compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
+							<li><span>Number of Straps</span><p>Handle to carry</p></li>
 						</ul>
 					</div>
 				</div>

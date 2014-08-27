@@ -51,20 +51,20 @@
 						<div class="single-product-tab">						
 							<div class="tab-content" id="single-post-content">
 								<div id="single-post1" class="tab-pane fade in active">
-								   <img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_1_large.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" /> 
+								   <img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_3_large.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" /> 
 								</div>
 								<div id="single-post2" class="tab-pane fade">
 								  <img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_2_large.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
 								</div>
 								<div id="single-post3" class="tab-pane fade">
-								  <img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_3_large.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
+								  <img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_1_large.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
 								</div>
 							</div>
 							
 							<ul class="nav nav-tabs" id="single-post-tabs">
 								<li class="active">
 									<a data-toggle="tab" href="#single-post1">
-										<img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_1_thumb.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
+										<img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_3_thumb.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
 									</a>
 								</li>
 								<li>
@@ -74,7 +74,7 @@
 								</li>
 								<li>
 									<a data-toggle="tab" href="#single-post3">
-										<img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_3_thumb.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
+										<img src="assets/images/products/product-detail/dark brown leather flap duffle bag satchel vintage look/dark_brown_leather_flap_duffle_bag_satchel_vintage_look_1_thumb.jpg" alt="Messenger" title="Dark Brown Leather Flap Duffle Dag Satchel Vintage Look" />
 									</a>
 								</li>
 							</ul>

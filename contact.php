@@ -64,18 +64,18 @@
 						<span>BRAND FOR EVERY STYLE. FIND YOURS.</span>
 					</div>
 					
-					<p>Nisi proin sagittis proin porta, tortor pid purus elit a duis nunc. In tristique, in? Dictumst dictumst, ac ac, aenean nascetur magna ultricies in ac aliquam, augue ultrices turpis dictumst sociis pulvinar cursus placerat sit.</p>
+					<p>Customer satisfaction is our moto. We also accept bulk orders. Feel free to contact us for any enquiries at <a href="mailto:enquiries@leatherbagsnow.com">enquiries@leatherbagsnow.com</a> or fill up the contact form below.</p>
 					<div class="row">
-						<div class="col-md-6">
+						<!-- <div class="col-md-6">
 							<ul class="social-btns">
 								<li><a href="#" title=""><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
 							</ul>
-						</div>
+						</div> -->
 						<div class="col-md-6 contact-info">
-							<span><i class="fa fa-map-marker"></i>Hiran Magri, Udaipur, Rajasthan, 313001</span>
+							<span><i class="fa fa-map-marker"></i>1st street, Hiran Magri, Rajasthan, 313001</span>
 							<span><i class="fa fa-envelope-o"></i><a href="mailto:contact@leatherbagsnow.com">contact@leatherbagsnow.com</a></span>
-							<span><i class="fa fa-mobile"></i>(+91-9166152999)  (+91-9887897376)</span>
+							<span><i class="fa fa-mobile"></i>(+91-9166152999) / (+91-9887897376)</span>
 						</div>
 					</div>
 					

@@ -10510,7 +10510,7 @@ footer h3 i {
     font-weight: 600;
 }
 footer h3:before {
-    background: none repeat scroll 0 0 #6c6c6d;
+    /*background: none repeat scroll 0 0 #6c6c6d;*/
     bottom: -1px;
     content: "";
     height: 1px;
