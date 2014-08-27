@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now/Ladies Black Leather Handbag</title>
+<title>Leather Bags Now-Ladies Black Leather Handbag</title>
 <meta name="description" content="handmade ladies bag easy to carry and handle the stuff required" />
 <meta name="keywords" content="ladies hand bag, ladies satchel bag, ladies sling bag, tote bag, ladies purses, leather ladies handbag, leather tote bag, leather messenger bag, ladies handmade bag" />
 

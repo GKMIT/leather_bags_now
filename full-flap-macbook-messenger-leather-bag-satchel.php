@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now/Full Flap Macbook Messenger Leather Bag Satchel</title>
+<title>Leather Bags Now-Full Flap Macbook Messenger Leather Bag Satchel</title>
 <meta name="description" content="ideal bag for office use and cases for laptops with study and retro look" />
 <meta name="keywords" content="leather laptop bag, mens messenger bag, leather messenger bag, leather satchel bag, bike messenger, office messenger, satchel messenger bag, crossbody messenger bag, mens satchel bag, macbook bag" />
 
