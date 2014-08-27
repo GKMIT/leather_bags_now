@@ -42,10 +42,9 @@
 }
 
 .error{
-	border-color: red;
 	font-size: 12px;
-	color: red;
-	border-color: red;
+	color: brown;
+	border-color: brown;
 }
 
 .logo{

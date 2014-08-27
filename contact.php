@@ -1,12 +1,18 @@
 <?php
-	if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['website']) && isset($_POST['comments'])){
-		$from = $_POST["email"]; // sender
-	    $subject = "product Comment";
-	    $website = $_POST["website"];
-	    $message = $_POST['name'].", ".$_POST["comments"];
+	// $to = "paliwal.ck@gmail.com,";
+	// $subject = "Order Confirmation";
+	// $from = "ck@gkmit.co";
+	// $message="Your Order has been confirmed. Thank you for shopping with us";
+	// $headers = "From:" . $from;
+	// mail($to,$subject,$message,$headers);
 
-	    $message = wordwrap($message, 70);
-	    mail("paliwal.ck@gmail.com",$subject,$message,"From: $from\n");
+	if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['comments'])){
+		$from = $_POST["email"];
+	    $to = "contact@leatherbagsnow.com";
+		$subject = "Contact Form";
+		$message=$_POST['name'].", ".$_POST["comments"];
+		$headers = "From:" . $from;
+		mail($to,$subject,$message,$headers);
 	}
 ?>
 
@@ -99,9 +105,6 @@
 								<div class="form-group">
 									<input name="email" type="text" id="email" class="input-style" placeholder="EMAIL" />
 								</div>
-								<div class="form-group">
-									<input name="website" id="website" class="input-style" type="text" placeholder="WEBSITE" />
-								</div>
 							</div>	
 							<div class="col-md-11">
 								<textarea name="comments" id="comments" class="input-style" placeholder="YOUR MESSAGE"></textarea>
@@ -111,35 +114,6 @@
 					</form>
 				</div>
 			</div>
-			
-			<!-- <div class="col-md-4">
-				<div class="best-deals">
-					<span>BEST DEALS</span>
-					<ul>
-						<li>
-							<span><img src="http://placehold.it/133x115" alt="" /></span>
-							<h4>Best Offer Samsung Galaxy <i>N9000 ( Jet Black )</i></h4>
-							<p>$454<strong></strong></p>
-							<a href="#" title="">SHOP NOW</a>
-						</li>
-						
-						<li>
-							<span><img src="http://placehold.it/133x115" alt="" /></span>
-							<h4>Best Offer Samsung Galaxy <i>N9000 ( Jet Black )</i></h4>
-							<p>$454<strong></strong></p>
-							<a href="#" title="">SHOP NOW</a>
-						</li>
-						
-						<li>
-							<span><img src="http://placehold.it/133x115" alt="" /></span>
-							<h4>Best Offer Samsung Galaxy <i>N9000 ( Jet Black )</i></h4>
-							<p>$485 <strong>$454</strong></p>
-							<a href="#" title="">SHOP NOW</a>
-						</li>
-						
-					</ul>
-				</div>
-			</div> -->
 			
 		</div>
 	</div>
@@ -188,7 +162,6 @@
 					required:true,
 					email:true
 				},
-				website:"required",
 				comments:"required"
 			},
 			messages:{
@@ -197,7 +170,6 @@
 					required:"Enter the Email Please",
 					email:"Please enter correct Email "
 				},
-				website:"Please enter the website !",
 				comments:"Please enter the Comment !"
 			},
 			submitHandler: function (form) {
