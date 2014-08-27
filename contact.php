@@ -70,7 +70,7 @@
 						<span>BRAND FOR EVERY STYLE. FIND YOURS.</span>
 					</div>
 					
-					<p>Customer satisfaction is our moto. We also accept bulk orders. Feel free to contact us for any enquiries at <a href="mailto:enquiries@leatherbagsnow.com">enquiries@leatherbagsnow.com</a> or fill up the contact form below.</p>
+					<p>Customer satisfaction is our motto. We also accept bulk orders. Feel free to contact us for any enquiries at <a href="mailto:enquiries@leatherbagsnow.com">enquiries@leatherbagsnow.com</a> or fill up the contact form below.</p>
 					<div class="row">
 						<!-- <div class="col-md-6">
 							<ul class="social-btns">

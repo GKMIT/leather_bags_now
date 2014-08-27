@@ -8061,7 +8061,7 @@ input.w-news-letter[type="checkbox"]:disabled + label {
     padding-top: 12px;
 }
 .contact-form .submit {
-    background: none repeat scroll 0 0 #B9B9B9;
+    background: none repeat scroll 0 0 #935a41;
     border: medium none;
 
     -webkit-border-radius: 2px;
