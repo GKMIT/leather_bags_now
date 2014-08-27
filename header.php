@@ -18,11 +18,6 @@
 									Products 
 								</a>
 							</li>
-							<!-- <li>
-								<a href="blog.php" title="">
-									Blog 
-								</a>
-							</li> -->
 							<li>
 								<a href="contact.php" title="">
 									Contact 
