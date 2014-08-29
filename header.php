@@ -47,13 +47,8 @@
 						</a>
 					</li>
 					<li>
-						<a href="product.php" title="">
+						<a href="products.php" title="">
 							Products 
-						</a>
-					</li>
-					<li>
-						<a href="blog.php" title="">
-							Blog 
 						</a>
 					</li>
 					<li>
