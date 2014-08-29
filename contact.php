@@ -1,18 +1,24 @@
 <?php
-	// $to = "paliwal.ck@gmail.com,";
-	// $subject = "Order Confirmation";
-	// $from = "ck@gkmit.co";
-	// $message="Your Order has been confirmed. Thank you for shopping with us";
-	// $headers = "From:" . $from;
-	// mail($to,$subject,$message,$headers);
 
 	if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['comments'])){
-		$from = $_POST["email"];
-	    $to = "contact@leatherbagsnow.com";
-		$subject = "Contact Form";
-		$message=$_POST['name'].", ".$_POST["comments"];
-		$headers = "From:" . $from;
-		mail($to,$subject,$message,$headers);
+		$myFile = "contact.txt";
+		$fh = fopen($myFile, 'a') or die("can't open file");
+		$stringData = "Name : ".$_POST['name']."\n";
+		fwrite($fh, $stringData);
+		$stringData = "Email : ".$_POST['email']."\n";
+		fwrite($fh, $stringData);
+		$stringData = "Message : ".$_POST['comments']."\n";
+		fwrite($fh, $stringData);
+		$stringData = "=====================================================\n";
+		fwrite($fh, $stringData);
+		fclose($fh);
+		$flag=1;
+		//$from = $_POST["email"];
+	    //$to = "contact@leatherbagsnow.com";
+		//$subject = "Contact Form";
+		//$message=$_POST['name'].", ".$_POST["comments"];
+		//$headers = "From:" . $from;
+		//mail($to,$subject,$message,$headers);
 	}
 ?>
 
@@ -137,21 +143,6 @@
 <!-- <script type="text/javascript" src="assets/js/jquery.jigowatt.js"></script> -->
 <!-- AJAX Form Submit -->
 <script type="text/javascript"  src="assets/js/jquery.validate.js"></script><!-- form validation -->
-
-<script type="text/javascript">
-	$(document).ready(function() {
-		$(".footer-deal").owlCarousel({
-			autoPlay :true,
-			stopOnHover : true,
-			goToFirstSpeed : 2000,
-			slideSpeed:1500,
-			singleItem : true,
-			autoHeight : true,
-			transitionStyle:"goDown",
-			paginationNumbers:true
-		});
-	});
-</script>
 
 <script type="text/javascript">
 	$(document).ready(function(){

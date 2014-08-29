@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-Leather Office Messenger Bag Satchel</title>
+<title>Leather Bags Now-Leather Office Messenger Bag/Satchel</title>
 <meta name="description" content="ideal bag for office use and cases for laptops with study and retro look" />
 <meta name="keywords" content="leather laptop bag, mens messenger bag, leather messenger bag, leather satchel bag, bike messenger, office messenger, satchel messenger bag, crossbody messenger bag, mens satchel bag, macbook bag" />
 
@@ -38,7 +38,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>LEATHER OFFICE MESSENGER BAG SATCHEL</h1>
+		<h1>LEATHER OFFICE MESSENGER BAG/SATCHEL</h1>
 	</div>
 </section>
 
@@ -94,7 +94,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZ18</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Leather Office Messenger Bag Satchel </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Leather Office Messenger Bag/Satchel </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
 

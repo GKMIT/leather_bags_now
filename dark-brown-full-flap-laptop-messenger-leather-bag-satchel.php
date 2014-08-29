@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-Dark Brown Full Flap Laptop Messenger Leather Bag Satchel</title>
+<title>Leather Bags Now-Dark Brown Full Flap Laptop Messenger Leather Bag/Satchel</title>
 <meta name="description" content="leather messenger bag for laptop, documents, office use" />
 <meta name="keywords" content="eather messenger bag, calf leather bag, leather satchel, satchel messanger, laptop satchel, leather laptop bag, mens messenger bag, macbook bag, bike messenger, shoulder bag" />
 
@@ -39,7 +39,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>DARK BROWN FULL FLAP LAPTOP MESSENGER LEATHER BAG SATCHEL</h1>
+		<h1>DARK BROWN FULL FLAP LAPTOP MESSENGER LEATHER BAG/SATCHEL</h1>
 	</div>
 </section>
 
@@ -95,7 +95,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GB19</span>
-								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel </h3>
+								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Full Flap Laptop Messenger Leather Bag/Satchel </h3>
 								<p>CATEGORIES: <i>Laptop</i> </p>
 							</div>
 
@@ -104,7 +104,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>A must have classic retro style laptop/college messenger bag. this bag comes with two compartment and have a zipper pocket outside & inside. This bag enough room for your books, laptop, files, all phones etc. have an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
+										<p>A must have classic retro style laptop/college messenger bag. This bag comes with two compartments and have a zipper pocket outside & inside. This bag have enough room for your books, laptop, files, cell phone and other essentials. Leave an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>

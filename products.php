@@ -68,7 +68,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Bag Satchel With Front Pocket</h3>
+								<h3>Dark Brown Leather Messenger Bag/Satchel With Front Pocket</h3>
 								<span class="product-code">CZ12</span>
 							</div>
 						</div>
@@ -83,7 +83,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather And Jute Messenger Bag Satchel</h3>
+								<h3>Black Leather And Jute Messenger Bag/Satchel</h3>
 								<span class="product-code">GBJ01</span>
 							</div>
 						</div>
@@ -96,7 +96,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Ladies Leather Sling Bag Satchel</h3>
+								<h3>Ladies Leather Sling Bag/Satchel</h3>
 								<span class="product-code">GZ17</span>
 							</div>
 						</div>
@@ -109,7 +109,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather Messenger Bag Satchel </h3>
+								<h3>Black Leather Messenger Bag/Satchel </h3>
 								<span class="product-code">CB02</span>
 							</div>
 						</div>
@@ -123,7 +123,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel</h3>
+								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag/Satchel</h3>
 								<span class="product-code">GB19</span>
 							</div>
 						</div>
@@ -136,7 +136,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather And Jute Messenger Bag Satchel</h3>
+								<h3>Leather And Jute Messenger Bag/Satchel</h3>
 								<span class="product-code">GZJ05</span>
 							</div>
 						</div>
@@ -149,7 +149,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag Satchel With Front Pocket</h3>
+								<h3>Leather Messenger Bag/Satchel With Front Pocket</h3>
 								<span class="product-code">CZ15</span>
 							</div>
 						</div>
@@ -162,7 +162,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag Satchel Retro Look</h3>
+								<h3>Leather Messenger Bag/Satchel Retro Look</h3>
 								<span class="product-code">GZ07</span>
 							</div>
 						</div>
@@ -175,7 +175,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Bag Satchel Vintage Look</h3>
+								<h3>Leather Messenger Bag/Satchel Vintage Look</h3>
 								<span class="product-code">GZ06</span>
 							</div>
 						</div>
@@ -188,7 +188,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Laptop Bag Satchel</h3>
+								<h3>Leather Messenger Laptop Bag/Satchel</h3>
 								<span class="product-code">GZ08</span>
 							</div>
 						</div>
@@ -201,7 +201,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag Satchel Vintage Look </h3>
+								<h3>Leather Office Messenger Bag/Satchel Vintage Look </h3>
 								<span class="product-code">GZ10</span>
 							</div>
 						</div>
@@ -214,7 +214,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Light Brown Leather Duffle Dag Satchel </h3>
+								<h3>Light Brown Leather Duffle Bag/Satchel </h3>
 								<span class="product-code">GZ09</span>
 							</div>
 						</div>
@@ -227,7 +227,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Dark Brown Leather Flap Duffle Bag Satchel Vintage </h3>
+								<h3>Dark Brown Leather Flap Duffle Bag/Satchel Vintage </h3>
 								<span class="product-code">GZ11</span>
 							</div>
 						</div>
@@ -240,7 +240,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Full Flap Macbook Messenger Leather Bag Satchel </h3>
+								<h3>Full Flap Macbook Messenger Leather Bag/Satchel </h3>
 								<span class="product-code">GZ03</span>
 							</div>
 						</div>
@@ -279,7 +279,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Bike Messenger Bag Satchel</h3>
+								<h3>Leather Bike Messenger Bag/Satchel</h3>
 								<span class="product-code">GZ16</span>
 							</div>
 						</div>
@@ -292,7 +292,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag Satchel</h3>
+								<h3>Leather Office Messenger Bag/Satchel</h3>
 								<span class="product-code">GZ18</span>
 							</div>
 						</div>
@@ -305,7 +305,7 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Laptop Bag Satchel </h3>
+								<h3>Dark Brown Leather Messenger Laptop Bag/Satchel </h3>
 								<span class="product-code">GZ04</span>
 							</div>
 						</div>
@@ -459,27 +459,27 @@
 	
 	<?php
 		if(isset($_GET['category'])){
-			if($_GET['category']==1){
+			if($_GET['category']=='travel'){
 				?>
 				$("#cat-1").click();
 				<?php
 			}
-			else if($_GET['category']==2){
+			else if($_GET['category']=='messenger'){
 				?>
 				$("#cat-2").click();
 				<?php
 			}
-			else if($_GET['category']==3){
+			else if($_GET['category']=='laptop'){
 				?>
 				$("#cat-3").click();
 				<?php
 			}
-			else if($_GET['category']==4){
+			else if($_GET['category']=='ladies'){
 				?>
 				$("#cat-4").click();
 				<?php
 			}
-			else if($_GET['category']==5){
+			else if($_GET['category']=='upcoming'){
 				?>
 				$("#cat-5").click();
 				<?php

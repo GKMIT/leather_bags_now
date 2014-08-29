@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-leather Messenger Bag Satchel Vintage Look</title>
+<title>Leather Bags Now-leather Messenger Bag/Satchel Vintage Look</title>
 <meta name="description" content="handmade leather travel bags ideal for luggage of two people for three-four days" />
 <meta name="keywords" content="leather, duffle, bag, travel, gym, satchel, luggage, crossbody, round, duffle, flap" /> 
 
@@ -33,7 +33,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>LEATHER MESSENGER BAG SATCHEL VINTAGE LOOK</h1>
+		<h1>LEATHER MESSENGER BAG/SATCHEL VINTAGE LOOK</h1>
 	</div>
 </section>
 
@@ -105,7 +105,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZ06</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Leather Messenger Bag Satchel Vintage Look </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Leather Messenger Bag/Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
 							
@@ -114,7 +114,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag,shopping bag,college bag etc.</p>
+										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag, shopping bag, college bag, gym bag, diaper bag etc.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>

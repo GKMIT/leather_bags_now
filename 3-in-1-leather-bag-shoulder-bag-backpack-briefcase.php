@@ -229,19 +229,6 @@
 
 <script type="text/javascript">
 
-	$(document).ready(function() {
-		$(".footer-deal").owlCarousel({
-			autoPlay :true,
-			stopOnHover : true,
-			goToFirstSpeed : 2000,
-			slideSpeed:1500,
-			singleItem : true,
-			autoHeight : true,
-			transitionStyle:"goDown",
-			paginationNumbers:true
-		});	
-	});
-
 	$(document).ready(function() {	
 	$("#tab-recent").owlCarousel({
 	autoPlay :true,
