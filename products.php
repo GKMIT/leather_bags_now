@@ -68,8 +68,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Bag/Satchel With Front Pocket</h3>
-								<span class="product-code">CZ12</span>
+								<h3><a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" class='product-link' title="">Dark Brown Leather Messenger Bag/Satchel With Front Pocket</a></h3>
+								<span class="product-code"><a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" class="product-code" title="">CZ12</a></span>
 							</div>
 						</div>
 
@@ -83,8 +83,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather And Jute Messenger Bag/Satchel</h3>
-								<span class="product-code">GBJ01</span>
+								<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="" class='product-link'>Black Leather And Jute Messenger Bag/Satchel</a></h3>
+								<span class="product-code"><a href="black-leather-and-jute-messenger-bag-satchel.php" class="product-code" title="">GBJ01</a></span>
 							</div>
 						</div>
 
@@ -96,8 +96,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Ladies Leather Sling Bag/Satchel</h3>
-								<span class="product-code">GZ17</span>
+								<h3><a href="ladies-leather-sling-bag-satchel.php" title="" class='product-link'>Ladies Leather Sling Bag/Satchel</a></h3>
+								<span class="product-code"><a href="ladies-leather-sling-bag-satchel.php" class="product-code" title="">GZ17</a></span>
 							</div>
 						</div>
 						 
@@ -109,8 +109,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather Messenger Bag/Satchel </h3>
-								<span class="product-code">CB02</span>
+								<h3><a href="black-leather-messenger-bag-satchel.php" title="" class='product-link'>Black Leather Messenger Bag/Satchel </a></h3>
+								<span class="product-code"><a href="black-leather-messenger-bag-satchel.php" class="product-code" title="">CB02</a></span>
 							</div>
 						</div>
 						
@@ -123,8 +123,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag/Satchel</h3>
-								<span class="product-code">GB19</span>
+								<h3><a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="" class='product-link'>Dark Brown Full Flap Laptop Messenger Leather Bag/Satchel</a></h3>
+								<span class="product-code"><a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" class="product-code" title="">GB19</a></span>
 							</div>
 						</div>
 						 
@@ -136,8 +136,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather And Jute Messenger Bag/Satchel</h3>
-								<span class="product-code">GZJ05</span>
+								<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="" class='product-link'>Leather And Jute Messenger Bag/Satchel</a></h3>
+								<span class="product-code"><a href="leather-and-jute-messenger-bag-satchel.php" class="product-code" title="">GZJ05</a></span>
 							</div>
 						</div>
 
@@ -149,8 +149,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag/Satchel With Front Pocket</h3>
-								<span class="product-code">CZ15</span>
+								<h3><a href="leather-messenger-bag-satchel-with-front-pocket.php" title="" class='product-link'>Leather Messenger Bag/Satchel With Front Pocket</a></h3>
+								<span class="product-code"><a href="leather-messenger-bag-satchel-with-front-pocket.php" class="product-code" title="">CZ15</a></span>
 							</div>
 						</div>
 						
@@ -162,8 +162,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag/Satchel Retro Look</h3>
-								<span class="product-code">GZ07</span>
+								<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="" class='product-link'>Leather Messenger Bag/Satchel Retro Look</a></h3>
+								<span class="product-code"><a href="leather-messenger-bag-satchel-retro-look.php" class="product-code" title="">GZ07</a></span>
 							</div>
 						</div>
 
@@ -175,8 +175,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Bag/Satchel Vintage Look</h3>
-								<span class="product-code">GZ06</span>
+								<h3><a href="leather-messenger-bag-satchel-vintage-look.php" title="" class='product-link'>Leather Messenger Bag/Satchel Vintage Look</a></h3>
+								<span class="product-code"><a href="leather-messenger-bag-satchel-vintage-look.php" class="product-code" title="">GZ06</a></span>
 							</div>
 						</div>
 
@@ -188,8 +188,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Laptop Bag/Satchel</h3>
-								<span class="product-code">GZ08</span>
+								<h3><a href="leather-messenger-laptop-bag-satchel.php" title="" class='product-link'>Leather Messenger Laptop Bag/Satchel</a></h3>
+								<span class="product-code"><a href="leather-messenger-laptop-bag-satchel.php" class="product-code" title="">GZ08</a></span>
 							</div>
 						</div>
 
@@ -201,8 +201,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag/Satchel Vintage Look </h3>
-								<span class="product-code">GZ10</span>
+								<h3><a href="leather-office-messenger-bag-satchel-vintage-look.php" title="" class='product-link'>Leather Office Messenger Bag/Satchel Vintage Look </a></h3>
+								<span class="product-code"><a href="leather-office-messenger-bag-satchel-vintage-look.php" class="product-code" title="">GZ10</a></span>
 							</div>
 						</div>
 
@@ -214,8 +214,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Light Brown Leather Duffle Bag/Satchel </h3>
-								<span class="product-code">GZ09</span>
+								<h3><a href="light-brown-leather-duffle-bag-satchel.php" title="" class='product-link'>Light Brown Leather Duffle Bag/Satchel </a></h3>
+								<span class="product-code"><a href="light-brown-leather-duffle-bag-satchel.php" class="product-code" title="">GZ09</a></span>
 							</div>
 						</div>
 
@@ -227,8 +227,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Dark Brown Leather Flap Duffle Bag/Satchel Vintage </h3>
-								<span class="product-code">GZ11</span>
+								<h3><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="" class='product-link'>Dark Brown Leather Flap Duffle Bag/Satchel Vintage </a></h3>
+								<span class="product-code"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" class="product-code" title="">GZ11</a></span>
 							</div>
 						</div>
 
@@ -240,8 +240,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Full Flap Macbook Messenger Leather Bag/Satchel </h3>
-								<span class="product-code">GZ03</span>
+								<h3><a href="full-flap-macbook-messenger-leather-bag-satchel.php" title="" class='product-link'>Full Flap Macbook Messenger Leather Bag/Satchel </a></h3>
+								<span class="product-code"><a href="full-flap-macbook-messenger-leather-bag-satchel.php" class="product-code" title="">GZ03</a></span>
 							</div>
 						</div>
 
@@ -253,8 +253,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Dark Brown Macbook ipad Leather Sleeve </h3>
-								<span class="product-code">GZ14</span>
+								<h3><a href="dark-brown-macbook-ipad-leather-sleeve.php" title="" class='product-link'>Dark Brown Macbook ipad Leather Sleeve </a></h3>
+								<span class="product-code"><a href="dark-brown-macbook-ipad-leather-sleeve.php" class="product-code" title="">GZ14</a></span>
 							</div>
 						</div>
 
@@ -266,8 +266,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Ladies Black Leather Handbag</h3>
-								<span class="product-code">CB13</span>
+								<h3><a href="ladies-black-leather-handbag.php" title="" class='product-link'>Ladies Black Leather Handbag</a></h3>
+								<span class="product-code"><a href="ladies-black-leather-handbag.php" class="product-code" title="">CB13</a></span>
 							</div>
 						</div>
 
@@ -279,8 +279,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Bike Messenger Bag/Satchel</h3>
-								<span class="product-code">GZ16</span>
+								<h3><a href="leather-bike-messenger-bag-satchel.php" title="" class='product-link'>Leather Bike Messenger Bag/Satchel</a></h3>
+								<span class="product-code"><a href="leather-bike-messenger-bag-satchel.php" class="product-code" title="">GZ16</a></span>
 							</div>
 						</div>
 
@@ -292,8 +292,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag/Satchel</h3>
-								<span class="product-code">GZ18</span>
+								<h3><a href="leather-office-messenger-bag-satchel.php" title="" class='product-link'>Leather Office Messenger Bag/Satchel</a></h3>
+								<span class="product-code"><a href="leather-office-messenger-bag-satchel.php" class="product-code" title="">GZ18</a></span>
 							</div>
 						</div>
 
@@ -305,8 +305,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Laptop Bag/Satchel </h3>
-								<span class="product-code">GZ04</span>
+								<h3><a href="dark-brown-leather-messenger-laptop-bag-satchel.php" title="" class='product-link'>Dark Brown Leather Messenger Laptop Bag/Satchel</a> </h3>
+								<span class="product-code"><a href="dark-brown-leather-messenger-laptop-bag-satchel.php" class="product-code" title="">GZ04</a></span>
 							</div>
 						</div>
 
@@ -324,8 +324,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>3 in 1 Leather Bag Shoulder Bag Backpack Briefcase</h3>
-								<span class="product-code">UB01</span>
+								<h3><a href="3-in-1-leather-bag-shoulder-bag-backpack-briefcase.php" title="" class='product-link'>3 in 1 Leather Bag Shoulder Bag Backpack Briefcase</a></h3>
+								<span class="product-code"><a href="3-in-1-leather-bag-shoulder-bag-backpack-briefcase.php" class="product-code" title="">UB01</a></span>
 							</div>
 						</div>
 
@@ -337,8 +337,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Premium Leather Laptop Bag</h3>
-								<span class="product-code">UB02</span>
+								<h3><a href="premium-leather-laptop-bag.php" title="" class='product-link'>Premium Leather Laptop Bag</a></h3>
+								<span class="product-code"><a href="premium-leather-laptop-bag.php" class="product-code" title="">UB02</a></span>
 							</div>
 						</div>
 
@@ -351,8 +351,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Premium Leather Square Duffle Bag</h3>
-								<span class="product-code">UB03</span>
+								<h3><a href="premium-leather-square-duffle-bag.php" title="" class='product-link'>Premium Leather Square Duffle Bag</a></h3>
+								<span class="product-code"><a href="premium-leather-square-duffle-bag.php" class="product-code" title="">UB03</a></span>
 							</div>
 						</div>
 
@@ -364,8 +364,8 @@
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Premium Leather Travel Gym Bag</h3>
-								<span class="product-code">UB04</span>
+								<h3><a href="premium-leather-travel-gym-bag.php" title="" class='product-link'>Premium Leather Travel Gym Bag</a></h3>
+								<span class="product-code"><a href="premium-leather-travel-gym-bag.php" class="product-code" title="">UB04</a></span>
 							</div>
 						</div>
 

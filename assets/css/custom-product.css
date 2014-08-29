@@ -64,3 +64,9 @@
 	color: lightgray !important;
 	font-size: 10px !important;
 }
+.product-link{
+	color: #444444;
+	font-family: Noto Sans;
+	font-size: 15px;
+	letter-spacing: 0.3px;
+}

@@ -31,7 +31,6 @@
 	</nav>
 </header>
 
-<<<<<<< HEAD
 <header class="responsive-header">
 	 <div class="row">
 		<div class="col-md-4">
@@ -64,8 +63,6 @@
 		
 </header>
 
-=======
->>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

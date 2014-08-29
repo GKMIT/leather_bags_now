@@ -49,6 +49,7 @@
 						<ul>
 							<li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="1">
 								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png"  alt="dark brown leather messenger bag satchel with front pocket"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
+
 							</li><!-- SLIDE 1  -->
 
 							<li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1" >
@@ -88,15 +89,15 @@
 								<div class="tab-recent" id="tab-recent">
 									<ul>
 										<li><span><img src="assets/images/side-bar/latest/black_leather_and_jute_messenger_bag_satchel.png" alt="black leather and jute messenger bag satchel" /></span>
-											<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">Black Leather And Jute Messenger Bag/Satchel</a></h3>
+											<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">Black Leather And Jute Messenger Bag Satchel</a></h3>
 										</li>
 										
 										<li><span><img src="assets/images/side-bar/latest/leather_and_jute_messenger_bag_satchel.png" alt="leather and jute messenger bag satchel" /></span>
-											<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">Leather And Jute Messenger Bag/Satchel</a></h3>
+											<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">Leather And Jute Messenger Bag Satchel</a></h3>
 										</li>
 										
 										<li><span><img src="assets/images/side-bar/latest/leather_messenger_bag_satchel_retro_look.png" alt="sidebar latest leather messenger bag satchel retro look" /></span>
-											<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="leather messenger bag satchel retro look">Leather Messenger Bag/Satchel Retro Look</a></h3>
+											<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="leather messenger bag satchel retro look">Leather Messenger Bag Satchel Retro Look</a></h3>
 										</li>
 									</ul>
 								</div>
@@ -194,8 +195,8 @@
 <script type="text/javascript" src="assets/js/jquery.themepunch.plugins.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
 
+<script type="text/javascript">
 
-<<<<<<< HEAD
 	$(document).ready(function() {
 	
 	$(".footer-deal").owlCarousel({
@@ -213,17 +214,15 @@
 	});
 
 </script>
-=======
->>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 
 <script type="text/javascript">
 	var revapi;
 	jQuery(document).ready(function() {
 	revapi = jQuery('.tp-banner').revolution(
 	{
-	delay:3000,
+	delay:5000,
 	startwidth:770,
-	startheight:300,
+	startheight:467,
 	autoHeight:"on",
 	navigationType:"none",
 	hideThumbs:10,
