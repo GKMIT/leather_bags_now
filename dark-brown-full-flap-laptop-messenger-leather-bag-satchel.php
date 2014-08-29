@@ -104,7 +104,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>A must have classic retro style laptop/college messenger bag. this bag comes with two compartment and have a zipper pocket outside & inside. This bag enough room for your books, laptop, files, all phones etc. have an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
+										<p>A must have classic retro style laptop/college messenger bag. This bag comes with two compartments and have a zipper pocket outside & inside. This bag have enough room for your books, laptop, files, cell phone and other essentials. Leave an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>

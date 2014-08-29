@@ -114,7 +114,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag,shopping bag,college bag etc.</p>
+										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag, shopping bag, college bag, gym bag, diaper bag etc.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>

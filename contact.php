@@ -1,18 +1,15 @@
 <?php
-	// $to = "paliwal.ck@gmail.com,";
-	// $subject = "Order Confirmation";
-	// $from = "ck@gkmit.co";
-	// $message="Your Order has been confirmed. Thank you for shopping with us";
-	// $headers = "From:" . $from;
-	// mail($to,$subject,$message,$headers);
 
 	if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['comments'])){
+<<<<<<< HEAD
 		// $from = $_POST["email"];
 	 //    $to = "contact@leatherbagsnow.com";
 		// $subject = "Contact Form";
 		// $message=$_POST['name'].", ".$_POST["comments"];
 		// $headers = "From:" . $from;
 		// mail($to,$subject,$message,$headers);
+=======
+>>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 		$myFile = "contact.txt";
 		$fh = fopen($myFile, 'a') or die("can't open file");
 		$stringData = "Name : ".$_POST['name']."\n";
@@ -25,6 +22,15 @@
 		fwrite($fh, $stringData);
 		fclose($fh);
 		$flag=1;
+<<<<<<< HEAD
+=======
+		//$from = $_POST["email"];
+	    //$to = "contact@leatherbagsnow.com";
+		//$subject = "Contact Form";
+		//$message=$_POST['name'].", ".$_POST["comments"];
+		//$headers = "From:" . $from;
+		//mail($to,$subject,$message,$headers);
+>>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 	}
 ?>
 
@@ -149,21 +155,6 @@
 <!-- <script type="text/javascript" src="assets/js/jquery.jigowatt.js"></script> -->
 <!-- AJAX Form Submit -->
 <script type="text/javascript"  src="assets/js/jquery.validate.js"></script><!-- form validation -->
-
-<script type="text/javascript">
-	$(document).ready(function() {
-		$(".footer-deal").owlCarousel({
-			autoPlay :true,
-			stopOnHover : true,
-			goToFirstSpeed : 2000,
-			slideSpeed:1500,
-			singleItem : true,
-			autoHeight : true,
-			transitionStyle:"goDown",
-			paginationNumbers:true
-		});
-	});
-</script>
 
 <script type="text/javascript">
 	$(document).ready(function(){

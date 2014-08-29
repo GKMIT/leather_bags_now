@@ -49,7 +49,6 @@
 						<ul>
 							<li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="1">
 								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png"  alt="dark brown leather messenger bag satchel with front pocket"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
-
 							</li><!-- SLIDE 1  -->
 
 							<li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1" >
@@ -195,8 +194,8 @@
 <script type="text/javascript" src="assets/js/jquery.themepunch.plugins.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
 
-<script type="text/javascript">
 
+<<<<<<< HEAD
 	$(document).ready(function() {
 	
 	$(".footer-deal").owlCarousel({
@@ -214,15 +213,17 @@
 	});
 
 </script>
+=======
+>>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 
 <script type="text/javascript">
 	var revapi;
 	jQuery(document).ready(function() {
 	revapi = jQuery('.tp-banner').revolution(
 	{
-	delay:5000,
+	delay:3000,
 	startwidth:770,
-	startheight:467,
+	startheight:300,
 	autoHeight:"on",
 	navigationType:"none",
 	hideThumbs:10,

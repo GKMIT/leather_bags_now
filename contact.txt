@@ -1,4 +1,42 @@
+<<<<<<< HEAD
 Name : sdhskjdhfk
 Email : sd@sdlkfjld.dsf
 Message : sdfsdfjlsjfljsf flsdjfskdjfl
+=======
+Name : CKCKC
+Email : ck@gkmit.co
+Message : First sample Message content part
+=====================================================
+Name : Ronak
+Email : ronak@gkmit.co
+Message : sample test 2 message
+=====================================================
+Name : ravindra
+Email : ravindra@gkmit.co
+Message : sample test 3rd email
+=====================================================
+Name : preeti
+Email : preeti@gkmit.co
+Message : sample test 4
+=====================================================
+Name : sonal
+Email : sonal@gkmit.co
+Message : sample test 5
+=====================================================
+Name : naveena
+Email : naveen@gkmit.co
+Message : sample test naveen
+=====================================================
+Name : naveena
+Email : naveen@gkmit.co
+Message : sample test naveen
+=====================================================
+Name : naveena
+Email : naveen@gkmit.co
+Message : sample test naveen
+=====================================================
+Name : yoyoo
+Email : rororo@sdfff.sdfsfsdf
+Message : ,smfsnfsf
+>>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 =====================================================
