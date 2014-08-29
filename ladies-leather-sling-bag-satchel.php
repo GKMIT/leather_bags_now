@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-Ladies Leather Sling Bag Satchel</title>
+<title>Leather Bags Now-Ladies Leather Sling Bag/Satchel</title>
 <meta name="description" content="handmade ladies bag easy to carry and handle the stuff required" />
 <meta name="keywords" content="ladies hand bag, ladies satchel bag, ladies sling bag, tote bag, ladies purses, leather ladies handbag, leather tote bag, leather messenger bag, ladies handmade bag" />
 
@@ -39,7 +39,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>LADIES LEATHER SLING BAG SATCHEL</h1>
+		<h1>LADIES LEATHER SLING BAG/SATCHEL</h1>
 	</div>
 </section>
 
@@ -96,7 +96,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZ17</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Ladies Leather Sling Bag Satchel </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Ladies Leather Sling Bag/Satchel </h3>
 								<p>CATEGORIES: <i>Ladies</i> </p>
 							</div>
 

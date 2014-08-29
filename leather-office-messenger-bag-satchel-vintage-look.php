@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-LEATHER OFFICE MESSENGER BAG SATCHEL VINTAGE LOOK</title>
+<title>Leather Bags Now-LEATHER OFFICE MESSENGER BAG/SATCHEL VINTAGE LOOK</title>
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 
@@ -37,7 +37,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>LEATHER OFFICE MESSENGER BAG SATCHEL VINTAGE LOOK</h1>
+		<h1>LEATHER OFFICE MESSENGER BAG/SATCHEL VINTAGE LOOK</h1>
 	</div>
 </section>
 
@@ -101,7 +101,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZ10</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Leather Office Messenger Bag Satchel Vintage Look </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Leather Office Messenger Bag/Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
 

@@ -62,13 +62,13 @@
 	
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="dark brown leather messenger bag satchel with front pocket" src="assets/images/products/dark_brown_leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown leather messenger bag/satchel with front pocket" src="assets/images/products/dark_brown_leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="dark-brown-leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Bag Satchel With Front Pocket</h3>
+								<h3>Dark Brown Leather Messenger Bag/Satchel With Front Pocket</h3>
 								<span class="product-code">CZ12</span>
 							</div>
 						</div>
@@ -77,39 +77,39 @@
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="black leather and jute messenger bag satchel" src="assets/images/products/black_leather_and_jute_messenger_bag_satchel.jpg"><a href="black-leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="black leather and jute messenger bag/satchel" src="assets/images/products/black_leather_and_jute_messenger_bag_satchel.jpg"><a href="black-leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather And Jute Messenger Bag Satchel</h3>
+								<h3>Black Leather And Jute Messenger Bag/Satchel</h3>
 								<span class="product-code">GBJ01</span>
 							</div>
 						</div>
 
 						<div class="cat4 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="ladies leather sling bag satchel" src="assets/images/products/ladies_leather_sling_bag_satchel.jpg"><a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="ladies leather sling bag/satchel" src="assets/images/products/ladies_leather_sling_bag_satchel.jpg"><a href="ladies-leather-sling-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Ladies Leather Sling Bag Satchel</h3>
+								<h3>Ladies Leather Sling Bag/Satchel</h3>
 								<span class="product-code">GZ17</span>
 							</div>
 						</div>
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold ">
-								<div class="sold-thumb"><img alt="black leather messenger bag satchel" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-leather-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="black leather messenger bag/satchel" src="assets/images/products/black_leather_messenger_bag_satchel.jpg"><a href="black-leather-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Black Leather Messenger Bag Satchel </h3>
+								<h3>Black Leather Messenger Bag/Satchel </h3>
 								<span class="product-code">CB02</span>
 							</div>
 						</div>
@@ -117,130 +117,130 @@
 						
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="dark brown full flap laptop messenger leather bag satchel" src="assets/images/products/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.jpg"><a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown full flap laptop messenger leather bag/satchel" src="assets/images/products/dark_brown_full_flap_laptop_messenger_leather_bag_satchel.jpg"><a href="dark-brown-full-flap-laptop-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag Satchel</h3>
+								<h3>Dark Brown Full Flap Laptop Messenger Leather Bag/Satchel</h3>
 								<span class="product-code">GB19</span>
 							</div>
 						</div>
 						 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather and jute messenger bag satchel" src="assets/images/products/leather_and_jute_messenger_bag_satchel.jpg"><a href="leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather and jute messenger bag/satchel" src="assets/images/products/leather_and_jute_messenger_bag_satchel.jpg"><a href="leather-and-jute-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather And Jute Messenger Bag Satchel</h3>
+								<h3>Leather And Jute Messenger Bag/Satchel</h3>
 								<span class="product-code">GZJ05</span>
 							</div>
 						</div>
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather messenger bag satchel with front pocket" src="assets/images/products/leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger bag/satchel with front pocket" src="assets/images/products/leather_messenger_bag_satchel_with_front_pocket.jpg"><a href="leather-messenger-bag-satchel-with-front-pocket.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag Satchel With Front Pocket</h3>
+								<h3>Leather Messenger Bag/Satchel With Front Pocket</h3>
 								<span class="product-code">CZ15</span>
 							</div>
 						</div>
 						
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather messenger bag satchel retro look" src="assets/images/products/leather_messenger_bag_satchel_retro_look.png"><a href="leather-messenger-bag-satchel-retro-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger bag/satchel retro look" src="assets/images/products/leather_messenger_bag_satchel_retro_look.png"><a href="leather-messenger-bag-satchel-retro-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Messenger Bag Satchel Retro Look</h3>
+								<h3>Leather Messenger Bag/Satchel Retro Look</h3>
 								<span class="product-code">GZ07</span>
 							</div>
 						</div>
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather messenger bag satchel vintage look" src="assets/images/products/leather_messenger_bag_satchel_vintage_look.jpg"><a href="leather-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger bag/satchel vintage look" src="assets/images/products/leather_messenger_bag_satchel_vintage_look.jpg"><a href="leather-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Bag Satchel Vintage Look</h3>
+								<h3>Leather Messenger Bag/Satchel Vintage Look</h3>
 								<span class="product-code">GZ06</span>
 							</div>
 						</div>
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather messenger laptop bag satchel" src="assets/images/products/leather_messenger_laptop_bag_satchel.jpg"><a href="leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather messenger laptop bag/satchel" src="assets/images/products/leather_messenger_laptop_bag_satchel.jpg"><a href="leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Messenger Laptop Bag Satchel</h3>
+								<h3>Leather Messenger Laptop Bag/Satchel</h3>
 								<span class="product-code">GZ08</span>
 							</div>
 						</div>
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather office messenger bag satchel vintage look" src="assets/images/products/leather office messenger_bag_satchel_vintage_look.jpg"><a href="leather-office-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather office messenger bag/satchel vintage look" src="assets/images/products/leather office messenger_bag_satchel_vintage_look.jpg"><a href="leather-office-messenger-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag Satchel Vintage Look </h3>
+								<h3>Leather Office Messenger Bag/Satchel Vintage Look </h3>
 								<span class="product-code">GZ10</span>
 							</div>
 						</div>
 
 						<div class="cat1 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="light brown leather duffle bag satchel" src="assets/images/products/light_brown_leather_duffle_bag_satchel.jpg"><a href="light-brown-leather-duffle-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="light brown leather duffle bag/satchel" src="assets/images/products/light_brown_leather_duffle_bag_satchel.jpg"><a href="light-brown-leather-duffle-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Light Brown Leather Duffle Dag Satchel </h3>
+								<h3>Light Brown Leather Duffle Bag/Satchel </h3>
 								<span class="product-code">GZ09</span>
 							</div>
 						</div>
 
 						<div class="cat1 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="dark brown leather flap duffle bag satchel vintage look" src="assets/images/products/dark_brown_leather_flap_duffle_bag_satchel_vintage_look.jpg"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown leather flap duffle bag/satchel vintage look" src="assets/images/products/dark_brown_leather_flap_duffle_bag_satchel_vintage_look.jpg"><a href="dark-brown-leather-flap-duffle-bag-satchel-vintage-look.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Dark Brown Leather Flap Duffle Bag Satchel Vintage </h3>
+								<h3>Dark Brown Leather Flap Duffle Bag/Satchel Vintage </h3>
 								<span class="product-code">GZ11</span>
 							</div>
 						</div>
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="full flap macbook messenger leather bag satchel" src="assets/images/products/full_flap_macbook_messenger_leather_bag_satchel.jpg"><a href="full-flap-macbook-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="full flap macbook messenger leather bag/satchel" src="assets/images/products/full_flap_macbook_messenger_leather_bag_satchel.jpg"><a href="full-flap-macbook-messenger-leather-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Full Flap Macbook Messenger Leather Bag Satchel </h3>
+								<h3>Full Flap Macbook Messenger Leather Bag/Satchel </h3>
 								<span class="product-code">GZ03</span>
 							</div>
 						</div>
@@ -273,39 +273,39 @@
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather bike messenger bag satchel" src="assets/images/products/leather_bike_messenger_bag_satchel.jpg"><a href="leather-bike-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather bike messenger bag/satchel" src="assets/images/products/leather_bike_messenger_bag_satchel.jpg"><a href="leather-bike-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Leather Bike Messenger Bag Satchel</h3>
+								<h3>Leather Bike Messenger Bag/Satchel</h3>
 								<span class="product-code">GZ16</span>
 							</div>
 						</div>
 
 						<div class="cat2 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="leather office messenger bag satchel" src="assets/images/products/leather_office_messenger_bag_satchel.jpg"><a href="leather-office-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="leather office messenger bag/satchel" src="assets/images/products/leather_office_messenger_bag_satchel.jpg"><a href="leather-office-messenger-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>
-								<h3>Leather Office Messenger Bag Satchel</h3>
+								<h3>Leather Office Messenger Bag/Satchel</h3>
 								<span class="product-code">GZ18</span>
 							</div>
 						</div>
 
 						<div class="cat3 col-md-4 inner-products">
 							<div class="best-seller most-sold">
-								<div class="sold-thumb"><img alt="dark brown leather messenger laptop bag satchel" src="assets/images/products/dark_brown_leather_messenger_laptop_bag_satchel.jpg"><a href="dark-brown-leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
+								<div class="sold-thumb"><img alt="dark brown leather messenger laptop bag/satchel" src="assets/images/products/dark_brown_leather_messenger_laptop_bag_satchel.jpg"><a href="dark-brown-leather-messenger-laptop-bag-satchel.php" title="">VIEW DETAILS</a>
 									<i class="box1"></i>
 									<i class="box2"></i>
 									<i class="box3"></i>
 									<i class="box4"></i>
 								</div>					
-								<h3>Dark Brown Leather Messenger Laptop Bag Satchel </h3>
+								<h3>Dark Brown Leather Messenger Laptop Bag/Satchel </h3>
 								<span class="product-code">GZ04</span>
 							</div>
 						</div>

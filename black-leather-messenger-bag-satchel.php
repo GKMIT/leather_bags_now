@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-Black Leather Messenger Bag Satchel</title>
+<title>Leather Bags Now-Black Leather Messenger Bag/Satchel</title>
 <meta name="description" content="leather messenger bag for laptop, documents, office use" />
 <meta name="keywords" content="leather messenger bag, calf leather bag, leather satchel, satchel messanger, laptop satchel, leather laptop bag, mens messenger bag, macbook bag, bike messenger, shoulder bag" />
 
@@ -37,7 +37,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>BLACK LEATHER MESSENGER BAG SATCHEL</h1>
+		<h1>BLACK LEATHER MESSENGER BAG/SATCHEL</h1>
 	</div>
 </section>
 
@@ -94,7 +94,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>CB02</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Black Leather Messenger Bag Satchel </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Black Leather Messenger Bag/Satchel </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
 

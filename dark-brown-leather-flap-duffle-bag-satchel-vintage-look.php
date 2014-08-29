@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-Dark Brown Leather Flap Duffle Dag Satchel Vintage Look</title>
+<title>Leather Bags Now-Dark Brown Leather Flap Duffle Bag/Satchel Vintage Look</title>
 <meta name="description" content="handmade leather travel bags ideal for luggage of two people for Three-Four days" />
 <meta name="keywords" content="leather, duffle, bag, travel, gym, satchel, luggage, crossbody, round, duffle, flap" /> 
 
@@ -38,7 +38,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>DARK BROWN LEATHER FLAP DUFFLE BAG SATCHEL VINTAGE LOOK</h1>
+		<h1>DARK BROWN LEATHER FLAP DUFFLE BAG/SATCHEL VINTAGE LOOK</h1>
 	</div>
 </section>
 
@@ -86,7 +86,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZ11</span>
-								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Leather Flap Duffle Dag Satchel Vintage Look </h3>
+								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Leather Flap Duffle Bag/Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Travel</i> </p>
 							</div>
 

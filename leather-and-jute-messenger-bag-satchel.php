@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-Leather And Jute Messenger Bag Satchel</title>
+<title>Leather Bags Now-Leather And Jute Messenger Bag/Satchel</title>
 <meta name="description" content="leather laptop messenger bag blended with jute giving a classic look" />
 <meta name="keywords" content="leather laptop bag, leather messenger bag, leather satchel, satchel messenger, handmade leather bag, vintage look leather bag, jute laptop bag, stylish mac book bag, messenger satchel" />
 
@@ -37,7 +37,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>LEATHER AND JUTE MESSENGER BAG SATCHEL</h1>
+		<h1>LEATHER AND JUTE MESSENGER BAG/SATCHEL</h1>
 	</div>
 </section>
 
@@ -85,7 +85,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZJ05</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Leather And Jute Messenger Bag Satchel </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Leather And Jute Messenger Bag/Satchel </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
 

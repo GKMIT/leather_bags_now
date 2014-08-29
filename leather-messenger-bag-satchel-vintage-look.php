@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Leather Bags Now-leather Messenger Bag Satchel Vintage Look</title>
+<title>Leather Bags Now-leather Messenger Bag/Satchel Vintage Look</title>
 <meta name="description" content="handmade leather travel bags ideal for luggage of two people for three-four days" />
 <meta name="keywords" content="leather, duffle, bag, travel, gym, satchel, luggage, crossbody, round, duffle, flap" /> 
 
@@ -33,7 +33,7 @@
 <section class="block" id="inner-head">
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
-		<h1>LEATHER MESSENGER BAG SATCHEL VINTAGE LOOK</h1>
+		<h1>LEATHER MESSENGER BAG/SATCHEL VINTAGE LOOK</h1>
 	</div>
 </section>
 
@@ -105,7 +105,7 @@
 						<div class="single-post-desc">
 							<div class="single-post-head">
 								<span>GZ06</span>
-								<h3 style='text-align: center; padding-right: 5px;'>Leather Messenger Bag Satchel Vintage Look </h3>
+								<h3 style='text-align: center; padding-right: 5px;'>Leather Messenger Bag/Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
 							

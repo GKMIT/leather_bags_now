@@ -9,15 +9,15 @@
 				<div class="tab-recent" id="tab-recent">
 					<ul>
 						<li><span><img src="assets/images/side-bar/latest/black_leather_and_jute_messenger_bag_satchel.png" alt="Black Leather And Jute Messenger Bag Satchel" /></span>
-							<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">Black Leather And Jute Messenger Bag Satchel</a></h3>
+							<h3><a href="black-leather-and-jute-messenger-bag-satchel.php" title="black leather and jute messenger bag satchel">Black Leather And Jute Messenger Bag/Satchel</a></h3>
 						</li>
 						
 						<li><span><img src="assets/images/side-bar/latest/leather_and_jute_messenger_bag_satchel.png" alt="Leather And Jute Messenger Bag Satchel" /></span>
-							<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">Leather And Jute Messenger Bag Satchel</a></h3>
+							<h3><a href="leather-and-jute-messenger-bag-satchel.php" title="leather and jute messenger bag satchel">Leather And Jute Messenger Bag/Satchel</a></h3>
 						</li>
 						
 						<li><span><img src="assets/images/side-bar/latest/leather_messenger_bag_satchel_retro_look.png" alt="Leather Messenger Bag Satchel Retro Look" /></span>
-							<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="leather messenger bag satchel retro look">Leather Messenger Bag Satchel Retro Look</a></h3>
+							<h3><a href="leather-messenger-bag-satchel-retro-look.php" title="leather messenger bag satchel retro look">Leather Messenger Bag/Satchel Retro Look</a></h3>
 						</li>
 					</ul>
 				</div>
