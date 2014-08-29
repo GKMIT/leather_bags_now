@@ -459,27 +459,27 @@
 	
 	<?php
 		if(isset($_GET['category'])){
-			if($_GET['category']==1){
+			if($_GET['category']=='travel'){
 				?>
 				$("#cat-1").click();
 				<?php
 			}
-			else if($_GET['category']==2){
+			else if($_GET['category']=='messenger'){
 				?>
 				$("#cat-2").click();
 				<?php
 			}
-			else if($_GET['category']==3){
+			else if($_GET['category']=='laptop'){
 				?>
 				$("#cat-3").click();
 				<?php
 			}
-			else if($_GET['category']==4){
+			else if($_GET['category']=='ladies'){
 				?>
 				$("#cat-4").click();
 				<?php
 			}
-			else if($_GET['category']==5){
+			else if($_GET['category']=='upcoming'){
 				?>
 				$("#cat-5").click();
 				<?php

@@ -23,11 +23,11 @@
 				<div class="footer-category">
 				<h3><i>PRODUCT CATEGORIES</i></h3>
 					<ul>
-						<li><a href="products.php?category=3" title="">Laptop</a></li>
-						<li><a href="products.php?category=2" title="">Messenger</a></li>
-						<li><a href="products.php?category=4" title="">Ladies</a></li>
-						<li><a href="products.php?category=1" title="">Travel</a></li>
-						<li><a href="products.php?category=5" title="">Upcoming</a></li>
+						<li><a href="products.php?category=laptop" title="">Laptop</a></li>
+						<li><a href="products.php?category=messenger" title="">Messenger</a></li>
+						<li><a href="products.php?category=ladies" title="">Ladies</a></li>
+						<li><a href="products.php?category=travel" title="">Travel</a></li>
+						<li><a href="products.php?category=upcoming" title="">Upcoming</a></li>
 					</ul>
 				</div>
 			</div>

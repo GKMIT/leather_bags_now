@@ -7,12 +7,24 @@
 	// mail($to,$subject,$message,$headers);
 
 	if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['comments'])){
-		$from = $_POST["email"];
-	    $to = "contact@leatherbagsnow.com";
-		$subject = "Contact Form";
-		$message=$_POST['name'].", ".$_POST["comments"];
-		$headers = "From:" . $from;
-		mail($to,$subject,$message,$headers);
+		// $from = $_POST["email"];
+	 //    $to = "contact@leatherbagsnow.com";
+		// $subject = "Contact Form";
+		// $message=$_POST['name'].", ".$_POST["comments"];
+		// $headers = "From:" . $from;
+		// mail($to,$subject,$message,$headers);
+		$myFile = "contact.txt";
+		$fh = fopen($myFile, 'a') or die("can't open file");
+		$stringData = "Name : ".$_POST['name']."\n";
+		fwrite($fh, $stringData);
+		$stringData = "Email : ".$_POST['email']."\n";
+		fwrite($fh, $stringData);
+		$stringData = "Message : ".$_POST['comments']."\n";
+		fwrite($fh, $stringData);
+		$stringData = "=====================================================\n";
+		fwrite($fh, $stringData);
+		fclose($fh);
+		$flag=1;
 	}
 ?>
 
