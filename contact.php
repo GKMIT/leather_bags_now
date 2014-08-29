@@ -1,15 +1,14 @@
 <?php
 
 	if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['comments'])){
-<<<<<<< HEAD
+		
 		// $from = $_POST["email"];
 	 //    $to = "contact@leatherbagsnow.com";
 		// $subject = "Contact Form";
 		// $message=$_POST['name'].", ".$_POST["comments"];
 		// $headers = "From:" . $from;
 		// mail($to,$subject,$message,$headers);
-=======
->>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
+
 		$myFile = "contact.txt";
 		$fh = fopen($myFile, 'a') or die("can't open file");
 		$stringData = "Name : ".$_POST['name']."\n";
@@ -22,15 +21,12 @@
 		fwrite($fh, $stringData);
 		fclose($fh);
 		$flag=1;
-<<<<<<< HEAD
-=======
 		//$from = $_POST["email"];
 	    //$to = "contact@leatherbagsnow.com";
 		//$subject = "Contact Form";
 		//$message=$_POST['name'].", ".$_POST["comments"];
 		//$headers = "From:" . $from;
 		//mail($to,$subject,$message,$headers);
->>>>>>> d7493c1c64d43db14c3db7f05ca1866b5ae75160
 	}
 ?>
 
