@@ -136,7 +136,7 @@
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
 									<p class="available-at">Available At</p>
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<a href='http://www.ebay.com/itm/CB02-DARK-BROWN-LEATHER-MESSENGER-BAG-SATCHEL-WITH-FRONT-POCKET-/321506424983?'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
