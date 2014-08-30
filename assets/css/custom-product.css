@@ -70,3 +70,12 @@
 	font-size: 15px;
 	letter-spacing: 0.3px;
 }
+.available-at{
+	font-weight: bold !important;
+	color: #383838;
+	font-family: open sans;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 12px;
+	margin: 0 0 15px;
+}

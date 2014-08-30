@@ -104,7 +104,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Leave an impression on your colleagues and friends with this classic unisex leather bag. It comes with two compartments, one zip pocket at the back & one in the front. It also has a separate front pocket for cell phone and other essentials. This highly durable and sturdy bag comes with high quality metal fittings.</p>
+										<p>Leave an impression on your colleagues and friends with this classic unisex leather bag. It comes with two compartments, one zip pocket at the back and one in the front. It also has a separate front pocket for cell phone and other essentials. This highly durable and sturdy bag comes with high quality metal fittings.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -136,7 +136,9 @@
 									 <p>Dimension	 : 10' x 13'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
+									<p class="available-at">Available At</p>
 									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<!-- <a href='http://www.amazon.com'><img src='assets/images/amazon.png'/></a> -->
 								</div>
 							</div>
 							
@@ -157,11 +159,10 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>7'x 9', 9' x 11', 10' x 13'</p></li>
-							<li><span>Material</span><p>Calf leather, Brass Buckles</p></li>
+							<li><span>Sizes</span><p>7'x 9', 9' x 11', 10' x 13' Inches</p></li>
+							<li><span>Material</span><p>Calf Leather, Metal Accessesories</p></li>
 							<li><span>Number of Pockets</span><p>Two</p></li>
 							<li><span>Number of Compartments</span><p>Two</p></li>
-							<li><span>Number of Straps</span><p>One</p></li>
 						</ul>
 					</div>
 				</div>

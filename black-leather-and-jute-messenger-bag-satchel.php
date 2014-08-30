@@ -117,7 +117,7 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">11' x 15'</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">12' x 16'</a></li>
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
@@ -146,11 +146,10 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>11' x 15'</p></li>
+							<li><span>Sizes</span><p>12' x 16'</p></li>
 							<li><span>Material</span><p>Leather, Jute, Metal Buckles</p></li>
 							<li><span>Number of Pockets</span><p>Three, Four Front Pocket, 1 Zipper</p></li>
 							<li><span>Number of Compartments</span><p>Three compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
 						</ul>
 					</div>
 				</div>
