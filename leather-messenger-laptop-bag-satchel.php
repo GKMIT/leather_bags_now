@@ -110,7 +110,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbags. A must have bag that can go with everything in your wardrobe. This bag comes with two inner compartments and gives you enough room for all your essentials. You can carry it to a party, movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -173,7 +173,7 @@
 						<h3>product features</h3>
 						<ul>
 							<li><span>Type</span><p>Laptop</p></li>
-							<li><span>Color</span><p>Black</p></li>
+							<li><span>Color</span><p>Brown</p></li>
 							<li><span>Sizes</span><p>7' x 9', 9' x 11', 10' x 13', 11' x 15', 12' x 17' Inches</p></li>
 							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
 							<li><span>Number of Pockets</span><p>One Inner Zipper Pocket</p></li>
