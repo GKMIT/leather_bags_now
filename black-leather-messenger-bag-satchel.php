@@ -157,8 +157,8 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17' inches</p></li>
-							<li><span>Material</span><p>Leather, Metal accessories</p></li>
+							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
 							<li><span>Number of Pockets</span><p>One front pocket, One zipper pocket under the flap</p></li>
 							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
