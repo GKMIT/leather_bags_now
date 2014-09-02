@@ -114,7 +114,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also have one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag, shopping bag, college bag, gym bag, diaper bag etc.</p>
+										<p>Enhance your style quotient by this unique and classic multipurpose leather bag. This bag gives you enough room to accommodate all your essentials. It also has one front pocket and two side pockets for your cell phone and other belongings. This is a highly durable and sturdy bag which comes with high quality metal fittings. You can use it as a office bag, shopping bag, college bag, gym bag, diaper bag etc.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -137,7 +137,8 @@
 										<p>Dimension	 : 12' x 16'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<p class="available-at">Available At</p>
+									<a href='http://www.ebay.com/itm/GZ06-LEATHER-MESSENGER-BAG-SATCHEL-VINTAGE-LOOK-/321509338987?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -159,10 +160,9 @@
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
 							<li><span>Sizes</span><p>12' x 16'</p></li>
-							<li><span>Material</span><p>Leather</p></li>
-							<li><span>Number of Pockets</span><p>2 Side Pocket, One Front Pocket</p></li>
-							<li><span>Number of Compartments</span><p>One Compartment</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>Two Side Pockets, One Front Pocket</p></li>
+							<li><span>Number of Compartments</span><p>One</p></li>
 						</ul>
 					</div>
 				</div>

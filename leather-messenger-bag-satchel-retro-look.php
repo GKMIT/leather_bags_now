@@ -113,7 +113,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Arrive your office in style with this exclusive leather office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate It have separate in-stitched pen and card holders in front pocket for convenience all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap</p>
+										<p>Arrive your office in style with this exclusive leather office cum laptop bag. This bag has two inner compartments with zip. It also comes with one front pocket and one zipper pocket at back. It is equipped with in-stitched pen and card holder in front pocket for convenience. It can also accommodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -145,7 +145,7 @@
 									 <p>Dimension	 : 12' x 17'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<a href='http://www.ebay.com' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -167,10 +167,10 @@
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
 							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17'</p></li>
-							<li><span>Material</span><p>Leather & Metal Buckles</p></li>
-							<li><span>Number of Pockets</span><p>One Front Deep Pocket</p></li>
-							<li><span>Number of Compartments</span><p>Two Compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Front Pocket, One Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
+							<li><span>Other Features</span><p>Pen Holder, Card Holder, Mobile/Cell Phone Holder</p></li>
 						</ul>
 					</div>
 				</div>
