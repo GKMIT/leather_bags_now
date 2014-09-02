@@ -146,7 +146,7 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>12' x 16'</p></li>
+							<li><span>Sizes</span><p>12' x 16' Inches</p></li>
 							<li><span>Material</span><p>Leather, Jute, Metal Buckles</p></li>
 							<li><span>Number of Pockets</span><p>Two Front Pocket, One Zipper Pocket</p></li>
 							<li><span>Number of Compartments</span><p>Two</p></li>
