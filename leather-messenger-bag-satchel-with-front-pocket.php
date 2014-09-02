@@ -140,7 +140,7 @@
 									  <p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<p class="available-at">Available At</p>
+									<p class="available-at">Shop Now At</p>
 									<a href='http://www.ebay.com/itm/CZ15-LEATHER-MESSENGER-BAG-SATCHEL-WITH-FRONT-POCKET-/321509384860?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>

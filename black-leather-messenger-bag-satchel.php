@@ -135,7 +135,7 @@
 									 <p>Dimension	 : 12'x17'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<p class="available-at">Available At</p>
+									<p class="available-at">Shop Now At</p>
 									<a href='http://www.ebay.com/itm/CB02-DARK-BROWN-LEATHER-MESSENGER-BAG-SATCHEL-WITH-FRONT-POCKET-/321506424983?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
