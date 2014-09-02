@@ -94,7 +94,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+										<p>Arrive your office in style with this exclusive leather and jute office cum laptop bag. This bag has two inner compartments with zip. It also comes with one front pocket and one zipper pocket at back. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -120,7 +120,8 @@
 									  <p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<p class="available-at">Available At</p>
+									<a href='http://www.ebay.com/itm/GZJ05-LEATHER-AND-JUTE-MESSENGER-BAG-SATCHEL-/321509328958?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -141,11 +142,10 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>16' x 13', 11' x 15'</p></li>
-							<li><span>Material</span><p>Leather & Jute</p></li>
-							<li><span>Number of Pockets</span><p>One Front Pocket</p></li>
-							<li><span>Number of Compartments</span><p>Three Compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
+							<li><span>Sizes</span><p>11' x 15'</p></li>
+							<li><span>Material</span><p>Leather, Jute, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Front Pocket, One Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>
