@@ -111,7 +111,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegant and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbag. A must have bag that can go with everything in your wardrobe. You can carry it to a party, movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -125,10 +125,10 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11'</a></li>
-									<li><a data-toggle="tab" href="#size-l">10' x 12'</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">24'</a></li>
+									<!-- <li><a data-toggle="tab" href="#size-l">10' x 12'</a></li>
 									<li><a data-toggle="tab" href="#size-m">11' x 13'</a></li>
-									<li><a data-toggle="tab" href="#size-s">12' x 13'</a></li>
+									<li><a data-toggle="tab" href="#size-s">12' x 13'</a></li> -->
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
@@ -158,7 +158,7 @@
 				</div>		
 				
 					
-		<div class="shop-tabs">
+		<!-- <div class="shop-tabs">
 			<div class="col-md-12">
 			  <ul class="nav nav-tabs shop-tab" id="myTab3">
 				<li class="active"><a data-toggle="tab" href="#reviews">Features</a></li>
@@ -181,7 +181,7 @@
 				</div>
 			  </div>
 			</div>
-		</div>
+		</div> -->
 
 </div>
 			

@@ -100,9 +100,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<!-- <p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p> -->
-										<!-- <span><i>Rate</i>	 : 50-60$</span> -->
-										<p>Arrive your office in style with this exclusive black colored leather office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbag. A must have bag that can go with everything in your wardrobe. You can carry it to a party, movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -148,7 +146,7 @@
 				</div>		
 				
 					
-		<div class="shop-tabs">
+		<!-- <div class="shop-tabs">
 			<div class="col-md-12">
 			  <ul class="nav nav-tabs shop-tab" id="myTab3">
 				<li class="active"><a data-toggle="tab" href="#reviews">Features</a></li>
@@ -171,7 +169,7 @@
 				</div>
 			  </div>
 			</div>
-		</div>		
+		</div> -->		
 		
 
 </div>
