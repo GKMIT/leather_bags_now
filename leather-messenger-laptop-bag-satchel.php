@@ -152,7 +152,8 @@
 									 <p>Dimension	 : 12' x 17'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<p class="available-at">Available At</p>
+									<a href='http://www.ebay.com' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -173,11 +174,10 @@
 						<ul>
 							<li><span>Type</span><p>Laptop</p></li>
 							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>7' x 9', 9' x 11', 10' x 13', 11' x 15', 12' x 17'</p></li>
-							<li><span>Material</span><p>Leather</p></li>
-							<li><span>Number of Pockets</span><p>Inner Pocket</p></li>
-							<li><span>Number of Compartments</span><p>Two Compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
+							<li><span>Sizes</span><p>7' x 9', 9' x 11', 10' x 13', 11' x 15', 12' x 17' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Inner Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>

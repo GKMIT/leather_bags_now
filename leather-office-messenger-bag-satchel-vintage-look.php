@@ -110,7 +110,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbag. A must have bag that can go with everything in your wardrobe. This bag comes with two inner compartments and gives you enough room for all your essentials. You can carry it to movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -147,7 +147,8 @@
 									 <p>Dimension	 : 12'x17'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<p class="available-at">Available At</p>
+									<a href='http://www.ebay.com' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -168,11 +169,10 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17'</p></li>
-							<li><span>Material</span><p>Leather Metal fitting</p></li>
-							<li><span>Number of Pockets</span><p>Front Pocket, Inner Zipper</p></li>
-							<li><span>Number of Compartments</span><p>Two Compartments</p></li>
-							<li><span>Number of Straps</span><p>1 Strap</p></li>
+							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Front Pocket, One Inner Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>
