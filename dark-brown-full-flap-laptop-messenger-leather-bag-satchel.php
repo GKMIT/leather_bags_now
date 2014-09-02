@@ -141,7 +141,7 @@
 									 <p>Dimension	 : 12'x17'</p>
 									 	<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<a href='http://www.ebay.com/itm/GB19-DARK-BROWN-FULL-FLAP-LAPTOP-MESSENGER-LEATHER-BAG-SATCHEL-/321509319546?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -160,6 +160,7 @@
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
+							<li><span>Type</span><p>Laptop</p></li>
 							<li><span>Color</span><p>Brown</p></li>
 							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17' Inches</p></li>
 							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
