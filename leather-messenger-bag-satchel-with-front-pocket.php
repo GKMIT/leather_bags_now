@@ -113,7 +113,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Arrive your office in style with this exclusive leather office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate It have separate in-stitched pen and card holders in front pocket for convenience all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+										<p>Arrive your office in style with this exclusive leather office cum laptop bag. This bag has two inner compartments with zip. It also comes with one front pocket and one zipper pocket at back. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -141,7 +141,7 @@
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
 									<p class="available-at">Available At</p>
-									<a href='http://www.ebay.com' target='blank'><img src='assets/images/ebay.png'/></a>
+									<a href='http://www.ebay.com/itm/CZ15-LEATHER-MESSENGER-BAG-SATCHEL-WITH-FRONT-POCKET-/321509384860?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
