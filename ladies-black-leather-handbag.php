@@ -95,7 +95,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>>Enhance your style quotient by this elegent and exclusive handbags. Strips of leather beautifully stiched gives this bag a unique design. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbag. Strips of leather beautifully stiched gives this bag a unique design. A must have bag that can go with everything in your wardrobe. You can carry it to a party, movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -137,13 +137,10 @@
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
-							<li><span>Type</span><p>Messenger & Shoulder & Ladies</p></li>
+							<li><span>Type</span><p>Ladies</p></li>
 							<li><span>Color</span><p>Black</p></li>
 							<li><span>Sizes</span><p>11' x 15'</p></li>
 							<li><span>Material</span><p>Buffalo Leather</p></li>
-							<li><span>Number of Pockets</span><p>One Zipper Pocket</p></li>
-							<li><span>Number of Compartments</span><p>One Compartments</p></li>
-							<li><span>Number of Straps</span><p>Handle to carry</p></li>
 						</ul>
 					</div>
 				</div>

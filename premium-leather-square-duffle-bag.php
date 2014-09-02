@@ -111,7 +111,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -168,13 +168,13 @@
 					<div class="product-details">
 						<h3>product features</h3>
 						<ul>
-							<li><span>Type</span><p>Messenger & Shoulder & Ladies</p></li>
+							<li><span>Type</span><p>Messenger/Shoulder, Ladies</p></li>
 							<li><span>Color</span><p>Black</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 12', 11' x 13', 12' x 13'</p></li>
-							<li><span>Material</span><p>Leather & Steel</p></li>
-							<li><span>Number of Pockets</span><p>Four Pocket with Chain</p></li>
-							<li><span>Number of Compartments</span><p>Three compartments available</p></li>
-							<li><span>Straps</span><p>2 Strap available</p></li>
+							<li><span>Sizes</span><p>9' x 11', 10' x 12', 11' x 13', 12' x 13' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>Four Pocket With Chain</p></li>
+							<li><span>Number of Compartments</span><p>Three</p></li>
+							<li><span>Straps</span><p>Two</p></li>
 							<li><span>Other Body Features</span><p>Laptop Sleeve with Velcro Closure, Main Compartment, Adjustable Straps at Back</p></li>
 						</ul>
 					</div>

@@ -102,7 +102,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbag. A must have bag that can go with everything in your wardrobe. This bag comes with two inner compartments, one deep front pocket and one zipper pocket at the back which gives you enough room for all your essentials. You can carry it to a party, movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -156,11 +156,10 @@
 						<ul>
 							<li><span>Type</span><p>Laptop</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17'</p></li>
-							<li><span>Material</span><p>Leather & Metal Buckles</p></li>
-							<li><span>Number of Pockets</span><p>One Front Deep Pocket</p></li>
-							<li><span>Number of Compartments</span><p>Two Compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
+							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Front Deep Pocket, One Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>

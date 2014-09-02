@@ -116,8 +116,8 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">10' x 13'</a></li>
-									<li><a data-toggle="tab" href="#size-xl">9' x 11</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">9' x 11</a></li>
+									<li><a data-toggle="tab" href="#size-xl">10' x 13'</a></li>
 									<li><a data-toggle="tab" href="#size-xl">11' x 15'</a></li>
 									<li><a data-toggle="tab" href="#size-xl">12' x 17'</a></li>
 								</ul>
@@ -157,7 +157,7 @@
 						<ul>
 							<li><span>Type</span><p>Laptop</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17', 9'x11' Inches</p></li>
+							<li><span>Sizes</span><p>9'x11', 10' x 13', 11' x 15', 12' x 17' Inches</p></li>
 							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
 							<li><span>Number of Pockets</span><p>One Zipper Pocket Inside</p></li>
 							<li><span>Number of Compartments</span><p>Two</p></li>
