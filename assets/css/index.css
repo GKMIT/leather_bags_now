@@ -85,13 +85,13 @@
 	}
 }
 
-@media screen and (max-width: 711px) {
+@media screen and (max-width: 768px) {
 	.slide-heading-1{
 		/*font-size:100%;*/
 	}
 
 	.slide-content-1{
-		font-size: 15px !important;
+		font-size: 14px !important;
 	}
 
 	.slide-button-1 > a{
@@ -106,7 +106,7 @@
 	}
 
 	.slide-content-1{
-		font-size: 8px !important;
+		font-size: 10px !important;
 	}
 
 	.slide-button-1 > a{

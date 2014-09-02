@@ -103,7 +103,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Arrive your office in style with this exclusive leather & jute office cum laptop bag. This bag have two compartments with zip. It also comes with a zip pocket at back and in front. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+										<p>Arrive your office in style with this exclusive leather and jute office cum laptop bag. This bag has two inner compartments with zip. It also comes with a zipper pocket at back and one front pocket. It can accomodate all your business essentials, laptop, cell phones, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -148,8 +148,8 @@
 							<li><span>Color</span><p>Black</p></li>
 							<li><span>Sizes</span><p>12' x 16'</p></li>
 							<li><span>Material</span><p>Leather, Jute, Metal Buckles</p></li>
-							<li><span>Number of Pockets</span><p>Three, Four Front Pocket, 1 Zipper</p></li>
-							<li><span>Number of Compartments</span><p>Three compartments</p></li>
+							<li><span>Number of Pockets</span><p>Two Front Pocket, One Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>
