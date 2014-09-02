@@ -117,7 +117,8 @@
 										<p>Dimension	 : 11' x 15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<!-- <p class="available-at">Available At</p> -->
+									<!-- <a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a> -->
 								</div>
 							</div>
 							
