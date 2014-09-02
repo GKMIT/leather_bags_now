@@ -125,7 +125,7 @@
 										<p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<a href='http://www.ebay.com/itm/GBJ01-BLACK-LEATHER-AND-JUTE-MESSENGER-BAG-SATCHEL-/321509311367?' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
