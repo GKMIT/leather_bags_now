@@ -140,7 +140,8 @@
 									  <p>Dimension	 : 11'x15'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a>
+									<p class="available-at">Available At</p>
+									<a href='http://www.ebay.com' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
 							
@@ -161,11 +162,10 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>10' x 13', 11' x 15'</p></li>
-							<li><span>Material</span><p>Calf Leather & Metal Buckles</p></li>
-							<li><span>Number of Pockets</span><p>One Front Pocket, One Zipped Pocket</p></li>
-							<li><span>Number of Compartments</span><p>Two Compartments</p></li>
-							<li><span>Number of Straps</span><p>1 Strap</p></li>
+							<li><span>Sizes</span><p>10' x 13', 11' x 15' Inches</p></li>
+							<li><span>Material</span><p>Calf Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Front Pocket, One Zipper Pocket</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>

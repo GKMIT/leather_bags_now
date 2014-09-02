@@ -145,6 +145,7 @@
 									 <p>Dimension	 : 12' x 17'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
+									<p class="available-at">Available At</p>
 									<a href='http://www.ebay.com' target='blank'><img src='assets/images/ebay.png'/></a>
 								</div>
 							</div>
@@ -166,7 +167,7 @@
 						<ul>
 							<li><span>Type</span><p>Messenger</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17'</p></li>
+							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17' Inches</p></li>
 							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
 							<li><span>Number of Pockets</span><p>One Front Pocket, One Zipper Pocket</p></li>
 							<li><span>Number of Compartments</span><p>Two</p></li>
