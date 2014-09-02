@@ -104,7 +104,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>A must have classic retro style laptop/college messenger bag. This bag comes with two compartments and have a zipper pocket outside & inside. This bag have enough room for your books, laptop, files, cell phone and other essentials. Leave an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
+										<p>A must have classic retro style laptop/college messenger bag. This bag comes with two inner compartments and has one zipper pocket each on outside and inside. This bag has enough room for your books, laptop, files, cell phone and other essentials. Leave an impression on your colleagues, and friends by this trendy unisex bag. You can also adjust carrying of your bag by adjustable shoulder staps.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -161,11 +161,10 @@
 						<h3>product features</h3>
 						<ul>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17'</p></li>
-							<li><span>Material</span><p>leather</p></li>
+							<li><span>Sizes</span><p>9' x 11', 10' x 13', 11' x 15', 12' x 17' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
 							<li><span>Number of Pockets</span><p>Two Zipper Pockets</p></li>
-							<li><span>Number of Compartments</span><p>Two Inner Compartment</p></li>
-							<li><span>Number of Straps</span><p>One Strap (Adjustable)</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
 						</ul>
 					</div>
 				</div>
