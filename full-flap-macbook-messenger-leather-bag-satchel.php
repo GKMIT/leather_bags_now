@@ -102,7 +102,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Enhance your style quotient by this elegent and exclusive handbags. This is a hand made leather bags. A must have bag that can go with everything in your wardrobe. This bag comes with two compartment and gives you enough room for all your essentials. You can carry it to a party, movie, college, office.</p>
+										<p>Enhance your style quotient by this elegant and exclusive handbag. A must have bag that can go with everything in your wardrobe. This bag comes with two inner compartments and gives you enough room for all your essentials. You can carry it to a party, movies, college or your office.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
@@ -116,9 +116,10 @@
 							<div class="choose-size-tab">
 								<p>Available Sizes</p>
 								<ul class="nav nav-tabs" id="myTab2">
-									<li class="active"><a data-toggle="tab" href="#size-xl">10' x 13</a></li>
-									<li><a data-toggle="tab" href="#size-l">11' x 15'</a></li>
-									<li><a data-toggle="tab" href="#size-m">12' x 17'</a></li>
+									<li class="active"><a data-toggle="tab" href="#size-xl">10' x 13'</a></li>
+									<li><a data-toggle="tab" href="#size-xl">9' x 11</a></li>
+									<li><a data-toggle="tab" href="#size-xl">11' x 15'</a></li>
+									<li><a data-toggle="tab" href="#size-xl">12' x 17'</a></li>
 								</ul>
 								
 								<div class="tab-content" id="product-sizes">
@@ -156,12 +157,11 @@
 						<ul>
 							<li><span>Type</span><p>Laptop</p></li>
 							<li><span>Color</span><p>Brown</p></li>
-							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17'</p></li>
-							<li><span>Material</span><p>Leather & Metal Acc</p></li>
-							<li><span>Number of Pockets</span><p>One Zipped Inside</p></li>
-							<li><span>Number of Compartments</span><p>Two Compartments</p></li>
-							<li><span>Number of Straps</span><p>One Strap</p></li>
-							<li><span>Other Features</span><p>Pen & Card holder</p></li>
+							<li><span>Sizes</span><p>10' x 13', 11' x 15', 12' x 17', 9'x11' Inches</p></li>
+							<li><span>Material</span><p>Leather, Metal Accessories</p></li>
+							<li><span>Number of Pockets</span><p>One Zipper Pocket Inside</p></li>
+							<li><span>Number of Compartments</span><p>Two</p></li>
+							<li><span>Other Features</span><p>Pen, Card, Mobile/Cell Phone Holder</p></li>
 						</ul>
 					</div>
 				</div>
