@@ -82,3 +82,9 @@
 .tab-content >a > img{
 	height:75px;
 }
+.single-post-head{
+	margin-bottom: 10px;
+}
+.description{
+	margin-top: 0px;
+}

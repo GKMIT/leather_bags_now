@@ -89,7 +89,7 @@
 								<h3 style='text-align: center; margin:5px; padding-right: 5px;'>Dark Brown Leather Flap Duffle Bag/Satchel Vintage Look </h3>
 								<p>CATEGORIES: <i>Travel</i> </p>
 							</div>
-
+							<?php include_once('social_media.php');?>
 							<div class="choose-size-tab">
 								<p>Description</p>
 								

@@ -94,8 +94,20 @@
 								<h3 style='text-align: center; padding-right: 1%;'>3 in 1 Leather Bag Shoulder Bag Backpack Briefcase</h3>
 								<p>CATEGORIES: <i>Upcoming</i> </p>
 							</div>
-
-							<div class="choose-size-tab">
+							<p>
+								<div id="fb-root"></div>
+									<script>
+										(function(d, s, id) {
+										  var js, fjs = d.getElementsByTagName(s)[0];
+										  if (d.getElementById(id)) return;
+										  js = d.createElement(s); js.id = id;
+										  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0&appId=1460384074242705";
+										  fjs.parentNode.insertBefore(js, fjs);
+										}(document, 'script', 'facebook-jssdk'));
+									</script>
+								<div class="fb-like" data-href="http://www.leatherbagsnow.com/3-in-1-leather-bag-shoulder-bag-backpack-briefcase.php" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+							</p>
+							<div class="choose-size-tab description">
 								<p>Description</p>
 								
 								<div class="tab-content tab-features" id="product-sizes">

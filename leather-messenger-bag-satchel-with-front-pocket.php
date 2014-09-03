@@ -107,7 +107,7 @@
 								<h3 style='text-align: center; padding-right: 5px;'>Leather Messenger Bag/Satchel With Front Pocket </h3>
 								<p>CATEGORIES: <i>Messenger</i> </p>
 							</div>
-
+							<?php include_once('social_media.php');?>
 							<div class="choose-size-tab">
 								<p>Description</p>
 								

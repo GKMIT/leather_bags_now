@@ -95,7 +95,7 @@
 								<h3 style='text-align: center; padding-right: 5px;'>Premium Leather Travel Gym Bag </h3>
 								<p>CATEGORIES: <i>Upcoming</i> </p>
 							</div>
-
+							<?php include_once('social_media.php');?>
 							<div class="choose-size-tab">
 								<p>Description</p>
 								

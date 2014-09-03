@@ -89,7 +89,7 @@
 								<h3 style='text-align: center; padding-right: 5px;'>Light Brown Leather Duffle Bag/Satchel </h3>
 								<p>CATEGORIES: <i>Travel</i> </p>
 							</div>
-
+							<?php include_once('social_media.php');?>
 							<div class="choose-size-tab">
 								<p>Description</p>
 								
