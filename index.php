@@ -36,7 +36,7 @@
 	<div class="fixed-img sec-bg4"></div>
 	<div class="container">	
 		<h1>Increase Your Style Quotient</h1>
-	</div>
+	</div>	
 </section>
 
 
@@ -47,26 +47,26 @@
 				<div class="tp-banner-container">
 					<div class="tp-banner" >
 						<ul>
-							<li data-transition="3dcurtain-vertical" data-slotamount="7" data-masterspeed="1">
+							<li data-transition="curtain-2" data-slotamount="5" data-masterspeed="1">
 								<img src="assets/images/gallary/dark_brown_leather_messenger_bag_satchel_with_front_pocket.png"  alt="dark brown leather messenger bag satchel with front pocket"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 
 							</li><!-- SLIDE 1  -->
 
-							<li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="1" >
+							<li data-transition="slotzoom-horizontal" data-slotamount="5" data-masterspeed="1" >
 								<img src="assets/images/gallary/black_leather_and_jute_messenger_bag_satchel.png"  alt="black leather and jute messenger bag satchel"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 							
 							</li><!-- SLIDE 2  -->
 
-							<li data-transition="curtain-2" data-slotamount="7" data-masterspeed="1" >
+							<li data-transition="curtain-2" data-slotamount="5" data-masterspeed="1" >
 								<img src="assets/images/gallary/ladies_leather_sling_bag_satchel.png"  alt="ladies leather sling bag satchel"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 								
 							</li><!-- SLIDE 3  -->
 
-							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="1" >
+							<li data-transition="slotzoom-horizontal" data-slotamount="5" data-masterspeed="1" >
 								<img src="assets/images/gallary/leather_messenger_bag_satchel_with_front_pocket.png"  alt="leather messenger bag satchel with front pocket"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 								
 							</li><!-- SLIDE 4  -->
-							<li data-transition="boxslide" data-slotamount="7" data-masterspeed="1" >
+							<li data-transition="curtain-2" data-slotamount="5" data-masterspeed="1" >
 								<img src="assets/images/gallary/premium_leather_travel_gym_bag.png"  alt="premium leather travel gym bag"  data-bgfit="contain" data-bgposition="center top" data-bgrepeat="no-repeat" />
 							
 							</li><!-- SLIDE 5  -->
@@ -220,7 +220,7 @@
 	jQuery(document).ready(function() {
 	revapi = jQuery('.tp-banner').revolution(
 	{
-	delay:5000,
+	delay:3000,
 	startwidth:770,
 	startheight:467,
 	autoHeight:"on",
