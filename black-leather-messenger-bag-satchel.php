@@ -115,7 +115,7 @@
 								
 								<div class="tab-content tab-features" id="product-sizes">
 									<div class="tab-pane fade in active description">
-										<p>Arrive your office in style with this exclusive leather office cum laptop bag. This bag has two inner compartments. It also comes with a zipper pocket under the flap and one front pocket. It can accommodate all your business essentials, laptop, cell phone, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
+										<p>Arrive your office in style with this exclusive leather office and laptop bag. This bag has two inner compartments. It also comes with a zipper pocket under the flap and one front pocket. It can accommodate all your business essentials, laptop, cell phone, important files etc. You can use it as a laptop bag, hand briefcase, messenger bag, shoulder bag by adjusting its strap.</p>
 										<ul>
 											<!-- <li><i class="fa fa-check"></i><span class="description-content">Please note that this bag has distinctive leather smell that fades after 4-6 weeks of regular use.</span></li> -->
 											<li><i class="fa fa-check"></i><span class="description-content">Handmade bag</span></li>
