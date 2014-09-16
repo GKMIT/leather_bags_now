@@ -150,7 +150,7 @@
 									</div> -->
 									<p class="available-at">Shop Now At</p>
 									<a href='http://www.ebay.com/itm/CZ12-DARK-BROWN-LEATHER-MESSENGER-BAG-SATCHEL-WITH-FRONT-POCKET-/321506430349?' target='blank'><img src='assets/images/ebay.png'/></a>
-									<!-- <a href='http://www.amazon.com'><img src='assets/images/amazon.png'/></a> -->
+									<a href='http://www.amazon.com/gp/product/B00NEK8B2W' target='blank'><img src='assets/images/amazon.png' class='amazon-link'/></a>
 								</div>
 							</div>
 							

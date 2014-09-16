@@ -146,8 +146,8 @@
 									 <p>Dimension	 : 12'x17'</p>
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
-									<!-- <p class="available-at">Shop Now At</p> -->
-									<!-- <a href='http://www.ebay.com'><img src='assets/images/ebay.png'/></a> -->
+									<p class="available-at">Shop Now At</p>
+									<a href='http://www.amazon.com/gp/product/B00NMEXXZK' target='blank'><img src='assets/images/amazon.png' class='amazon-link'/></a>
 								</div>
 							</div>
 							

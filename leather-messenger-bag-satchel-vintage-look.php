@@ -151,6 +151,7 @@
 									</div> -->
 									<p class="available-at">Shop Now At</p>
 									<a href='http://www.ebay.com/itm/GZ06-LEATHER-MESSENGER-BAG-SATCHEL-VINTAGE-LOOK-/321509338987?' target='blank'><img src='assets/images/ebay.png'/></a>
+									<a href='http://www.amazon.com/gp/product/B00NGN0Y1I' target='blank'><img src='assets/images/amazon.png' class='amazon-link'/></a>
 								</div>
 							</div>
 							
