@@ -138,7 +138,7 @@
 										<span><i>Rate</i>	 : 50-60$</span>
 									</div> -->
 									<p class="available-at">Shop Now At</p>
-									<a href='http://www.ebay.com/itm/GBJ01-BLACK-LEATHER-AND-JUTE-MESSENGER-BAG-SATCHEL-/321509311367?' target='blank'><img src='assets/images/ebay.png'/></a>
+									<!-- <a href='http://www.ebay.com/itm/GBJ01-BLACK-LEATHER-AND-JUTE-MESSENGER-BAG-SATCHEL-/321509311367?' target='blank'><img src='assets/images/ebay.png'/></a> -->
 									<a href='http://www.amazon.com/gp/product/B00NGJIUS6' target='blank'><img src='assets/images/amazon.png' class='amazon-link'/></a>
 								</div>
 							</div>
